@@ -1,0 +1,1060 @@
+@prefix ma: <http://fraunhofer.de/MarketActivities/> .
+@prefix fh: <http://fraunhofer.de/example/> .
+@prefix ma: <http://fraunhofer.de/MarketActivities/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rss: <http://fraunhofer.de/example/rssfeed/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix data: <http://fraunhofer.de/data/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rob: <http://fraunhofer.de/robo/>.
+
+<http://www.w3.org/2004/02/skos/core#altLabel> rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/2004/02/skos/core#comment
+<http://www.w3.org/2004/02/skos/core#comment> rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/2004/02/skos/core#definition
+<http://www.w3.org/2004/02/skos/core#definition> rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/2004/02/skos/core#example
+<http://www.w3.org/2004/02/skos/core#example> rdf:type owl:AnnotationProperty .
+
+###Classes
+
+###  http://www.w3.org/ns/org#Organization
+<http://www.w3.org/ns/org#Organization> rdf:type owl:Class ;
+                                        rdfs:label "Organization"^^xsd:string ;
+                                        <http://www.w3.org/2004/02/skos/core#altLabel> "business"^^xsd:string ,
+                                                                                       "company"^^xsd:string ,
+                                                                                       "corporation"^^xsd:string ,
+                                                                                       "enterprise"^^xsd:string ,
+                                                                                       "establishment"^^xsd:string ,
+                                                                                       "firm"^^xsd:string ,
+                                                                                       "institution"^^xsd:string ;
+                                        <http://www.w3.org/2004/02/skos/core#definition> "Represents a collection of people organized together into a community or other social, commercial, or political structure. The group has some common purpose or reason for existence which goes beyond the set of people belonging to it and can act as an agent. Organizations are often decomposable into hierarchical structures."^^xsd:string .
+
+###  http://fraunhofer.de/MarketActivities/Customer
+ma:Customer rdf:type owl:Class ;
+            rdfs:subClassOf <http://www.w3.org/ns/org#Organization> ;
+            rdfs:label "Customer"@en ;
+            <http://www.w3.org/2004/02/skos/core#altLabel> "Buyer"@en ,
+                                                           "Client"@en ,
+                                                           "Orderer"@en ,
+                                                           "Purchaser"@en ,
+                                                           "Vendee"@en ;
+            <http://www.w3.org/2004/02/skos/core#definition> "someone who pays for/uses goods or services"@en .
+###  http://fraunhofer.de/robo/Competitor
+<http://fraunhofer.de/robo/Competitor> rdf:type owl:Class ;
+                                                         rdfs:subClassOf <http://www.w3.org/ns/org#Organization> ;
+                                                         rdfs:label "Competitor" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "manufacturer"^^xsd:string ,
+                                                                                                        "merchant"^^xsd:string ,
+                                                                                                        "producer"^^xsd:string ,
+                                                                                                        "provider"^^xsd:string ,
+                                                                                                        "seller"^^xsd:string ,
+                                                                                                        "supplier"^^xsd:string ,
+                                                                                                        "trader"^^xsd:string ,
+                                                                                                        "vendor"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "someone whose business is to supply a particular service or commodity"^^xsd:string .
+###  http://fraunhofer.de/robo/Integrator
+<http://fraunhofer.de/robo/Integrator> rdf:type owl:Class ;
+                                                         rdfs:subClassOf <http://www.w3.org/ns/org#Organization> ;
+                                                         rdfs:label "Integrator"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "implementer"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "someone who implements something or who puts it into practice"^^xsd:string .
+
+###  http://fraunhofer.de/MarketActivities/Researcher
+ma:Researcher rdf:type owl:Class ;
+              rdfs:subClassOf <http://www.w3.org/ns/org#Organization> .
+
+###  http://fraunhofer.de/MarketActivities/Manufacturer
+ma:Manufacturer rdf:type owl:Class ;
+                rdfs:subClassOf <http://www.w3.org/ns/org#Organization> .
+###  http://fraunhofer.de/MarketActivities/Supplier
+ma:Supplier rdf:type owl:Class ;
+            rdfs:subClassOf <http://www.w3.org/ns/org#Organization> ;
+            rdfs:label "Supplier"@en ;
+            <http://www.w3.org/2004/02/skos/core#altLabel> "Merchant"@en ,
+                                                           "Seller"@en ,
+                                                           "Trader"@en ,
+                                                           "Vendor"@en ;
+            <http://www.w3.org/2004/02/skos/core#definition> "someone who promotes or exchanges goods / services for money"@en .
+
+###  http://fraunhofer.de/MarketActivities/MarketObject
+ma:MarketObject rdf:type owl:Class .
+###  http://fraunhofer.de/robo/Application
+<http://fraunhofer.de/robo/Application> rdf:type owl:Class ;
+                                                        rdfs:subClassOf :MarketObject ;
+                                                        rdfs:label "Application" ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "appliance"^^xsd:string ,
+                                                                                                       "end use"^^xsd:string ,
+                                                                                                       "practical application"^^xsd:string ,
+                                                                                                       "usance"^^xsd:string ,
+                                                                                                       "use case"^^xsd:string ,
+                                                                                                       "utilization"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#definition> "The final intended end use of a particular final product or project"^^xsd:string .
+
+###  http://fraunhofer.de/robo/Product
+<http://fraunhofer.de/robo/Product> rdf:type owl:Class ;
+                                                        rdfs:subClassOf :MarketObject ;
+                                                        rdfs:label "Product" ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "output"^^xsd:string ,
+                                                                                                       "product article"^^xsd:string ,
+                                                                                                       "technology"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#definition> "An article that is manufactured or refined for sale. It will be distinguished between the different value chain positions of a product which can be sold and/or bought."^^xsd:string.
+    
+
+
+
+###  http://fraunhofer.de/robo/Intralogistics
+<http://fraunhofer.de/robo/Intralogistics> rdf:type owl:Class ;
+                                                         rdfs:subClassOf <http://fraunhofer.de/robo/Application> ;
+                                                         rdfs:label "Intralogistics"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "internal logistics"^^xsd:string ,
+                                                                                                        "internal material flow"^^xsd:string ,
+                                                                                                        "logistics within a facility"^^xsd:string ,
+                                                                                                        "material flow management"^^xsd:string ,
+                                                                                                        "material handling"^^xsd:string ,
+                                                                                                        "material information management"^^xsd:string ,
+                                                                                                        "material system"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "the organization, control, implementation and optimization of the internal flow of materials, information flows and goods handling in industry, trade and public institutions."^^xsd:string .
+###  http://fraunhofer.de/robo/Robotics
+<http://fraunhofer.de/robo/Robotics> rdf:type owl:Class ;
+                                                         rdfs:subClassOf <http://fraunhofer.de/robo/Application> ;
+                                                         rdfs:label "Robotics"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "automation"^^xsd:string ,
+                                                                                                        "computerization"^^xsd:string ,
+                                                                                                        "digitalization"^^xsd:string ,
+                                                                                                        "modernization"^^xsd:string ,
+                                                                                                        "robotics solution"^^xsd:string ,
+                                                                                                        "technological solution"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "robotics(1): the area of AI concerned with the practical use of robots"^^xsd:string .
+ ###  http://fraunhofer.de/robo/Warehousing
+<http://fraunhofer.de/robo/Warehousing> rdf:type owl:Class ;
+                                                         rdfs:subClassOf <http://fraunhofer.de/robo/Application> ;
+                                                         rdfs:label "Warehousing" ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "warehouse(1) (store in a warehouse)"^^xsd:string .                                                        
+###  http://fraunhofer.de/robo/Building
+<http://fraunhofer.de/robo/Building> rdf:type owl:Class ;
+                                                         rdfs:subClassOf <http://fraunhofer.de/robo/Application> ;
+                                                         rdfs:label "Building" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "architecture"^^xsd:string ,
+                                                                                                        "construction"^^xsd:string ,
+                                                                                                        "factory"^^xsd:string ,
+                                                                                                        "hall"^^xsd:string ,
+                                                                                                        "logistics center"^^xsd:string ,
+                                                                                                        "logistics centre"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "building(1): a structure that has a roof and walls and stands more or less permanently in one place"^^xsd:string .
+###  http://fraunhofer.de/robo/Logistics
+<http://fraunhofer.de/robo/Logistics> rdf:type owl:Class ;
+                                                        rdfs:subClassOf <http://fraunhofer.de/robo/Application> ;
+                                                        rdfs:label "Logistics"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "goods delivery"^^xsd:string ,
+                                                                                                       "goods transportation"^^xsd:string ,
+                                                                                                       "materials delivery"^^xsd:string ,
+                                                                                                       "materials transportation"^^xsd:string ,
+                                                                                                       "transportation management"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#definition> "logistics(1): handling an operation that involves providing labor and materials be supplied as needed"^^xsd:string .
+###  http://fraunhofer.de/robo/build_a_new_production_hall
+<http://fraunhofer.de/robo/build_a_new_production_hall> rdf:type owl:NamedIndividual ,
+                                                                 <http://fraunhofer.de/robo/Building> ;
+                                                        owl:sameAs <http://fraunhofer.de/robo/new_production_hall> ;
+                                                        rdfs:label "Build a New Production Hall" .     
+###  http://fraunhofer.de/robo/new_logistic_center
+<http://fraunhofer.de/robo/new_logistic_center> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Building> ;
+                                                         owl:sameAs <http://fraunhofer.de/robo/logistics_center> ;
+                                                         rdfs:label "New Logistic Center" .
+###  http://fraunhofer.de/robo/expanding_and_modernizing_a_warehouse
+<http://fraunhofer.de/robo/expanding_and_modernizing_a_warehouse> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Building> ;
+                                                         rdfs:label "Expanding and Modernizing a Warehouse" .
+###  http://fraunhofer.de/robo/Automated_small_parts_warehouse
+<http://fraunhofer.de/robo/Automated_small_parts_warehouse> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Product> ;
+                                                         rdfs:label "Automated Small Parts Warehouse" .
+ ###  http://fraunhofer.de/robo/automated_storage_and_retrival_system
+<http://fraunhofer.de/robo/automated_storage_and_retrival_system> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Product> ;
+                                                         rdfs:label "Automated Storage and Retrieval System" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "AS/RS"^^xsd:string .
+###  http://fraunhofer.de/robo/new_storage_hall
+<http://fraunhofer.de/robo/new_storage_hall> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Building> ;
+                                                         owl:sameAs <http://fraunhofer.de/robo/build_a_new_storage_hall> ;
+                                                         rdfs:label "New Storage Hall" .
+###  http://fraunhofer.de/robo/warehouse_automation
+<http://fraunhofer.de/robo/warehouse_automation> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Building> ;
+                                                         rdfs:label "Warehouse Automation" .
+###  http://fraunhofer.de/robo/autonomous_mobile_robot
+<http://fraunhofer.de/robo/autonomous_mobile_robot> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Product> ;
+                                                         rdfs:label "Autonomous Mobile Robot" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "AMR"^^xsd:string .
+###  http://fraunhofer.de/robo/autonomous_delivery_device
+<http://fraunhofer.de/robo/autonomous_delivery_device> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Logistics> ;
+                                                         rdfs:label "Autonomous Delivery Device" .
+###  http://fraunhofer.de/robo/robotic_system
+<http://fraunhofer.de/robo/robotic_system> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Robotics> ;
+                                                         rdfs:label "Robotic System" .
+###  http://fraunhofer.de/robo/robots_for_packaging
+<http://fraunhofer.de/robo/robots_for_packaging> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Product> ;
+                                                         rdfs:label "Robots for Packaging" .
+
+
+###  http://fraunhofer.de/robo/build_a_new_storage_hall
+<http://fraunhofer.de/robo/R8YWiXpRKjLqBydu9l8HiS7> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Building> ;
+                                                         rdfs:label "Build a New Storage Hall" .
+###  http://fraunhofer.de/robo/automated_guided_vehicle
+<http://fraunhofer.de/robo/automated_guided_vehicle> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Product> ;
+                                                         rdfs:label "Automatic Guided Vehicle" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "AGV"^^xsd:string .
+
+###  http://fraunhofer.de/robo/robotic_warehouse_solutions
+<http://fraunhofer.de/robo/robotic_warehouse_solutions> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Warehousing> ;
+                                                         rdfs:label "Robotic Warehouse Solutions" .
+ ###  http://fraunhofer.de/robo/smart_factory
+<http://fraunhofer.de/robo/smart_factory> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Logistics> ;
+                                                         rdfs:label "Smart Factory" .
+
+
+###  http://fraunhofer.de/robo/moving_boxes_in_the_warehouse
+<http://fraunhofer.de/robo/moving_boxes_in_the_warehouse> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Warehousing> ;
+                                                         rdfs:label "Moving Boxes in the Warehouse" .
+ ###  http://fraunhofer.de/robo/smart_robotics_solution
+<http://fraunhofer.de/robo/smart_robotics_solution> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Robotics> ;
+                                                         rdfs:label "Smart Robotics Solution" .
+
+
+###  http://fraunhofer.de/robo/automated_robotic_solutions
+<http://fraunhofer.de/robo/automated_robotic_solutions> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Robotics> ;
+                                                         rdfs:label "Automated Robotic Solutions" .
+###  http://fraunhofer.de/robo/intelligent_mobile_robot
+<http://fraunhofer.de/robo/intelligent_mobile_robot> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Product> ;
+                                                         rdfs:label "Intelligent Mobile Robot" .
+
+
+###  http://fraunhofer.de/robo/new_production_hall
+<http://fraunhofer.de/robo/new_production_hall> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Building> ;
+                                                         rdfs:label "New Production Hall" .
+ ###  http://fraunhofer.de/robo/automated_order_picking_system
+<http://fraunhofer.de/robo/automated_order_picking_system> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Product> ;
+                                                         rdfs:label "Automated Order Picking System" .
+###  http://fraunhofer.de/robo/warehouse_robotics
+<http://fraunhofer.de/robo/warehouse_robotics> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Warehousing> ;
+                                                         rdfs:label "Warehouse Robotics" .
+
+
+###  http://fraunhofer.de/robo/automated_material_flow_system
+<http://fraunhofer.de/robo/automated_material_flow_system> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Intralogistics> ;
+                                                         rdfs:label "Automated Material Flow System" .
+###  http://fraunhofer.de/robo/automated_storage
+<http://fraunhofer.de/robo/automated_storage> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Building> ;
+                                                         rdfs:label "Automated Storage" .
+###  http://fraunhofer.de/robo/robotic_depalletizing
+<http://fraunhofer.de/robo/robotic_depalletizing> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Product> ;
+                                                         rdfs:label "Robotic Depalletizing" .
+ ###  http://fraunhofer.de/robo/robotics_logistics_at_hospitals
+<http://fraunhofer.de/robo/robotics_logistics_at_hospitals> rdf:type owl:NamedIndividual ,
+                                                                 <http://fraunhofer.de/robo/Robotics> ;
+                                                        rdfs:label "Robotics Logistics at Hospitals" .              
+###  http://fraunhofer.de/robo/logistics_center
+<http://fraunhofer.de/robo/logistics_center> rdf:type owl:NamedIndividual ,
+                                                                 <http://fraunhofer.de/robo/Building> ;
+                                                        rdfs:label "Logistics Center" .
+
+
+###  http://fraunhofer.de/robo/automation_in_intralogistics
+<http://fraunhofer.de/robo/automation_in_intralogistics> rdf:type owl:NamedIndividual ,
+                                                                 <http://fraunhofer.de/robo/Intralogistics> ;
+                                                        rdfs:label "Automation in Intralogistics" .  
+###  http://fraunhofer.de/robo/construction_of_a_new_warehouse
+<http://fraunhofer.de/robo/construction_of_a_new_warehouse> rdf:type owl:NamedIndividual ,
+                                                                 <http://fraunhofer.de/robo/Building> ;
+                                                        rdfs:label "Construction of a New Warehouse" .
+ ###  http://fraunhofer.de/robo/material_handling_solutions_for_logistics
+<http://fraunhofer.de/robo/material_handling_solutions_for_logistics> rdf:type owl:NamedIndividual ,
+                                                                 <http://fraunhofer.de/robo/Intralogistics> ;
+                                                        rdfs:label "Material Handling Solutions for Logistics" .
+###  http://fraunhofer.de/robo/intelligent_minirobot_for_ordering_picking_and_putaway
+<http://fraunhofer.de/robo/intelligent_minirobot_for_ordering_picking_and_putaway> rdf:type owl:NamedIndividual ,
+                                                                 <http://fraunhofer.de/robo/Product> ;
+                                                        rdfs:label "Intelligent Mini-Robot for Order Picking and Put-Away" .
+
+
+###  http://fraunhofer.de/robo/smart_logistis_solution
+<http://fraunhofer.de/robo/smart_logistis_solution> rdf:type owl:NamedIndividual ,
+                                                                 <http://fraunhofer.de/robo/Logistics> ;
+                                                        rdfs:label "Smart Logistics Solutions" .
+###  http://fraunhofer.de/robo/sortation_robots
+<http://fraunhofer.de/robo/sortation_robots> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Product> ;
+                                                         rdfs:label "Sortation Robots" .          
+###  http://fraunhofer.de/robo/innovative_robotics_solution
+<http://fraunhofer.de/robo/innovative_robotics_solution> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Robotics> ;
+                                                         rdfs:label "Innovative Robotics Solution" .
+###  http://fraunhofer.de/robo/handling_system_with_robot_support
+<http://fraunhofer.de/robo/handling_system_with_robot_support> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Product> ;
+                                                         rdfs:label "Handling System With Robot Support"^^xsd:string .
+
+###MarketObjectStages
+
+###  http://fraunhofer.de/MarketActivities/inProduction
+ma:inProduction rdf:type owl:Class ;
+                rdfs:subClassOf <http://fraunhofer.de/robo/Product>,<http://fraunhofer.de/robo/Application>.
+
+
+###  http://fraunhofer.de/MarketActivities/inResearch
+ma:inResearch rdf:type owl:Class ;
+              rdfs:subClassOf <http://fraunhofer.de/robo/Product>,<http://fraunhofer.de/robo/Application>.
+
+
+###  http://fraunhofer.de/MarketActivities/inTesting
+ma:inTesting rdf:type owl:Class ;
+             rdfs:subClassOf <http://fraunhofer.de/robo/Product>,<http://fraunhofer.de/robo/Application>.
+
+###Properties
+
+###  http://fraunhofer.de/MarketActivities/has_customer
+ma:has_customer rdf:type owl:ObjectProperty ;
+                rdfs:subPropertyOf owl:topObjectProperty ;
+                rdfs:domain <http://www.w3.org/ns/org#Organization> ;
+                rdfs:range ma:Customer .
+###  http://fraunhofer.de/MarketActivities/launches
+ma:launches rdf:type owl:ObjectProperty ;
+            rdfs:subPropertyOf owl:topObjectProperty ;
+            rdfs:domain <http://www.w3.org/ns/org#Organization> ;
+            rdfs:range ma:inProduction ;
+            rdfs:label "launch"@en ;
+            <http://www.w3.org/2004/02/skos/core#altLabel> "advertise"@en ,
+                                                           "announce"@en ,
+                                                           "introduce"@en ,
+                                                           "present"@en,
+                                                           "release"@en .     
+###  http://fraunhofer.de/MarketActivities/manufactures
+ma:manufactures rdf:type owl:ObjectProperty ;
+                rdfs:subPropertyOf owl:topObjectProperty ;
+                rdfs:domain ma:Manufacturer ;
+                rdfs:range ma:inProduction ;
+                rdfs:label "manufacture"@en ;
+                <http://www.w3.org/2004/02/skos/core#altLabel> "construct"@en ,
+                                                               "fabricate"@en ,
+                                                               "produce"@en .
+###  http://fraunhofer.de/MarketActivities/partners_with
+ma:partners_with rdf:type owl:ObjectProperty ;
+                 rdfs:subPropertyOf owl:topObjectProperty ;
+                 rdfs:domain <http://www.w3.org/ns/org#Organization> ;
+                 rdfs:range <http://www.w3.org/ns/org#Organization> ;
+                 rdfs:label "partners with"@en ;
+                 <http://www.w3.org/2004/02/skos/core#altLabel> "agree with"@en ,
+                                                                "collaborate with"@en ,
+                                                                "coordinate with"@en ,
+                                                                "join forces with"@en ,
+                                                                "make a contract with"@en .
+###  http://fraunhofer.de/MarketActivities/purchases
+ma:purchases rdf:type owl:ObjectProperty ;
+             rdfs:subPropertyOf owl:topObjectProperty ;
+             rdfs:domain ma:Customer ;
+             rdfs:range ma:inProduction ;
+             rdfs:label "purchase"@en ;
+             <http://www.w3.org/2004/02/skos/core#altLabel> "acquire"@en ,
+                                                            "buy"@en ,
+                                                            "obtain"@en ,
+                                                            "order"@en ,
+                                                            "procure"@en ,
+                                                            "request"@en ;
+              <http://www.w3.org/2004/02/skos/core#definition> "purchase(1): buy, purchase (obtain by purchase; acquire by means of a financial transaction) \"The family purchased a new car\"; \"The conglomerate acquired a new company\"; \"She buys for the big department store\""^^xsd:string .
+ ###  http://fraunhofer.de/MarketActivities/researches
+ma:researches rdf:type owl:ObjectProperty ;
+              rdfs:subPropertyOf owl:topObjectProperty ;
+              rdfs:domain ma:Researcher ;
+              rdfs:range ma:inResearch ;
+              rdfs:label "research"@en ;
+              <http://www.w3.org/2004/02/skos/core#altLabel> "develop"@en ,
+                                                             "investigate"@en ,
+                                                             "study"@en .             
+###  http://fraunhofer.de/MarketActivities/supplies
+ma:supplies rdf:type owl:ObjectProperty ;
+            rdfs:subPropertyOf owl:topObjectProperty ;
+            rdfs:domain ma:Supplier ;
+            rdfs:range ma:inProduction ;
+            rdfs:label "supply"@en ;
+            <http://www.w3.org/2004/02/skos/core#altLabel> "offer"@en ,
+                                                           "provide"@en ,
+                                                           "sell"@en .
+###  http://fraunhofer.de/MarketActivities/tests
+ma:tests rdf:type owl:ObjectProperty ;
+         rdfs:subPropertyOf owl:topObjectProperty ;
+         rdfs:domain <http://www.w3.org/ns/org#Organization> ;
+         rdfs:range <http://fraunhofer.de/robo/Application> ;
+         rdfs:label "test"@en,"try"^^xsd:string ;
+         <http://www.w3.org/2004/02/skos/core#altLabel> "asses"@en ,
+                                                        "evaluate"@en ,
+                                                        "examine"@en ,
+                                                        "experiment"@en ,
+                                                        "trial"@en ,
+                                                        "try out"@en;
+        <http://www.w3.org/2004/02/skos/core#definition> "test(1):  test, prove, try, try out, examine, essay (put to the test, as for its quality, or give experimental use to) \"This approach has been tried with good results\"; \"Test this recipe\""^^xsd:string .
+###  http://fraunhofer.de/robo/improves
+<http://fraunhofer.de/robo/improves> rdf:type owl:ObjectProperty ;
+                                                        rdfs:subPropertyOf owl:topObjectProperty ;
+                                                        rdfs:domain :Customer ;
+                                                        rdfs:range <http://fraunhofer.de/robo/Application> ;
+                                                        rdfs:label "wordnet:improves_1"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "better"^^xsd:string ,
+                                                                                                       "enhance"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#definition> "improve(1): better, improve, amend, ameliorate, meliorate (to make better) \"The editor improved the manuscript with his changes\""^^xsd:string .
+###  http://fraunhofer.de/robo/expands
+<http://fraunhofer.de/robo/expands> rdf:type owl:ObjectProperty ;
+                                                         rdfs:subPropertyOf owl:topObjectProperty ;
+                                                         rdfs:domain :Customer ;
+                                                         rdfs:range <http://fraunhofer.de/robo/Application> ;
+                                                         rdfs:label "wordnet:expands_1"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "add"^^xsd:string ,
+                                                                                                        "enlarge"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "expand(1): expand (become larger in size or volume or quantity) \"his business expanded rapidly\""^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/delivers
+<http://fraunhofer.de/robo/delivers> rdf:type owl:ObjectProperty ;
+                                                         rdfs:subPropertyOf owl:topObjectProperty ;
+                                                         rdfs:domain <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:range <http://fraunhofer.de/robo/Product> ;
+                                                         rdfs:label "wordnet:deliver_2"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "bring"^^xsd:string ,
+                                                                                                        "ship"^^xsd:string ,
+                                                                                                        "supply"^^xsd:string ,
+                                                                                                        "transport"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "deliver(2): deliver (bring to a destination, make a delivery) \"our local super market delivers\""^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/installs
+<http://fraunhofer.de/robo/installs> rdf:type owl:ObjectProperty ;
+                                                        rdfs:subPropertyOf owl:topObjectProperty ;
+                                                        rdfs:domain :Customer ;
+                                                        rdfs:range <http://fraunhofer.de/robo/Application> ;
+                                                        rdfs:label "wordnet:installs_1"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "build"^^xsd:string ,
+                                                                                                       "deploy"^^xsd:string ,
+                                                                                                       "establish"^^xsd:string ,
+                                                                                                       "implement"^^xsd:string ,
+                                                                                                       "set up"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#definition> "install(1): install, instal, put in, set up (set up for use) \"install the washer and dryer\"; \"We put in a new sink\""^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/invests
+<http://fraunhofer.de/robo/invests> rdf:type owl:ObjectProperty ;
+                                                         rdfs:domain :Customer ;
+                                                         rdfs:range <http://fraunhofer.de/robo/Application> ;
+                                                         rdfs:label "wordnet:invests_in_1"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "commit"^^xsd:string ,
+                                                                                                        "spend"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "invest(1): invest, put, commit, place (make an investment) \"Put money into bonds\""^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/modernizes
+<http://fraunhofer.de/robo/modernizes> rdf:type owl:ObjectProperty ;
+                                                         rdfs:subPropertyOf owl:topObjectProperty ;
+                                                         rdfs:domain :Customer ;
+                                                         rdfs:range <http://fraunhofer.de/robo/Application> ;
+                                                         rdfs:label "wordnet:modernizes_2"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "renew"^^xsd:string ,
+                                                                                                        "renovate"^^xsd:string ,
+                                                                                                        "upgrade"^^xsd:string ;
+                                                                                                         <http://www.w3.org/2004/02/skos/core#definition> "modernize(2): modernize, modernise, develop (become technologically advanced) \"Many countries in Asia are now developing at a very fast pace\"; \"Viet Nam is modernizing rapidly\""^^xsd:string .
+###  http://fraunhofer.de/robo/provides
+<http://fraunhofer.de/robo/provides> rdf:type owl:ObjectProperty ;
+                                                         rdfs:subPropertyOf owl:topObjectProperty ;
+                                                         rdfs:domain <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:range <http://fraunhofer.de/robo/Product> ;
+                                                         rdfs:label "wordnet:provides_1"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "offer"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "provide(1): supply, provide, render, furnish (give something useful or necessary to) \"We provided the room with an electrical heater\""^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/sells
+<http://fraunhofer.de/robo/sells> rdf:type owl:ObjectProperty ;
+                                                        rdfs:subPropertyOf owl:topObjectProperty ;
+                                                        rdfs:domain <http://fraunhofer.de/robo/Competitor> ;
+                                                        rdfs:range <http://fraunhofer.de/robo/Product> ;
+                                                        rdfs:label "wordnet:sell_1"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "distribute"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#definition> "sell(1): sell (exchange or deliver for money or its equivalent) \"He sold his house in January\"; \"She sells her body to survive and support her drug habit\""^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/produces
+<http://fraunhofer.de/robo/produces> rdf:type owl:ObjectProperty ;
+                                                         rdfs:subPropertyOf owl:topObjectProperty ;
+                                                         rdfs:domain <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:range <http://fraunhofer.de/robo/Product> ;
+                                                         rdfs:label "wordnet:produces_2"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "construct"^^xsd:string ,
+                                                                                                        "create"^^xsd:string ,
+                                                                                                        "fabricate"^^xsd:string ,
+                                                                                                        "manufacture"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "produce(2):  produce, make, create (create or manufacture a man-made product) \"We produce more cars than we can sell\"; \"The company has been making toys for two centuries\""^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/develops
+<http://fraunhofer.de/robo/develops> rdf:type owl:ObjectProperty ;
+                                                        rdfs:subPropertyOf owl:topObjectProperty ;
+                                                        rdfs:domain <http://fraunhofer.de/robo/Competitor> ;
+                                                        rdfs:range <http://fraunhofer.de/robo/Product> ;
+                                                        rdfs:label "wordnet:develop_1"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "create"^^xsd:string ,
+                                                                                                       "design"^^xsd:string ,
+                                                                                                       "evolve"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#definition> "develop(1): develop (make something new, such as a product or a mental or artistic creation) \"Her company developed a new kind of building material that withstands all kinds of weather\"; \"They developed a new technique\""^^xsd:string .
+###Some Company Examples
+
+###  http://fraunhofer.de/robo/witron_logistik
+<http://fraunhofer.de/robo/witron_logistik> rdf:type owl:NamedIndividual ,
+                                                                 <http://fraunhofer.de/robo/Integrator> ;
+                                                        rdfs:label "WITRON" ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "WITRON Logistik + Informatik GmbH"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#definition> "Definition from Witron: One of the worldwide market leaders in the design and realization of highly dynamic warehouse systems and order picking systems in the intra-logistics business."^^xsd:string .
+###  http://fraunhofer.de/robo/rex_brown
+<http://fraunhofer.de/robo/rex_brown> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "Rex Brown" ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from Rex Brown: the UK’s & Europes premier strategic selling partner that delivers a full best in class end to end service, trusted by many of the world’s largest household brands, SME’s, digital transformation teams as well as new challenger brands to deliver quality in every department by offering a tailor-made service that drives sales, awareness, increases revenue, and grows market share across a wide range of digital markets while guaranteeing to protect your brand at all times."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/anybotics
+<http://fraunhofer.de/robo/anybotics> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "ANYbotics AG"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Anybotics"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from ANYbotics: ANYbotics leads the way in developing mobile robotics for industrial applications. Their autonomous legged robots solve customer problems in challenging environments so far only accessible to humans – and beyond that."^^xsd:string .
+
+###  http://fraunhofer.de/robo/bosch_rexroth
+<http://fraunhofer.de/robo/bosch_rexroth> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "Bosch Rexroth"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: an engineering firm based in Lohr am Main in Germany. It is the result of a merger on 1 May 2001 between Mannesmann Rexroth AG and the Automation Technology Business Unit of Robert Bosch GmbH, and is a wholly owned subsidiary of Robert Bosch GmbH."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/salt_solutions
+<http://fraunhofer.de/robo/salt_solutions> rdf:type owl:NamedIndividual ,
+                                                                 <http://fraunhofer.de/robo/Integrator> ;
+                                                        owl:sameAs <http://fraunhofer.de/robo/accenture> ;
+                                                        rdfs:label "SALT Solutions" ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "SALT Solutions AG"^^xsd:string .
+###  http://fraunhofer.de/robo/idealworks
+<http://fraunhofer.de/robo/idealworks> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "idealworks"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from idealworks: Headquartered in Munich and founded in November 2020 as a wholly owned subsidiary of the BMW Group, idealworks is specialized in the development of autonomous transport robots and their fleet management software."^^xsd:string .
+###  http://fraunhofer.de/robo/mobile_industrial_robots
+<http://fraunhofer.de/robo/mobile_industrial_robots> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "Mobile Industrial Robots" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "MiR"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from MiR: a leading manufacturer of collaborative mobile robots"^^xsd:string .
+###  http://fraunhofer.de/robo/takeda_pharmacy_company
+<http://fraunhofer.de/robo/takeda_pharmacy_company> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "Takeda Pharmaceutical Company" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Chobei Takeda & Co., Ltd."^^xsd:string ,
+                                                                                                        "Takeda"^^xsd:string ,
+                                                                                                        "Takeda Chemical Industries, Ltd."^^xsd:string ,
+                                                                                                        "Takeda Pharmaceutical Company Limited."^^xsd:string ,
+                                                                                                        "Takeda Pharmaceutical Industries, Ltd."^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: an American- Japanese multinational pharmaceutical company, with partial American and British roots. It is the largest pharmaceutical company in Asia and one of the top 20 largest pharmaceutical companies in the world by revenue (top 10 following merger with Shire)."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/dossin_entrepots
+<http://fraunhofer.de/robo/dossin_entrepots> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "dossin entrepots" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "DOSSIN ENTREPÔTS"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from LinkedIn: an SME specialized in storage and logistic services."^^xsd:string .
+###  http://fraunhofer.de/robo/karaca
+<http://fraunhofer.de/robo/karaca> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "Karaca" .
+
+
+###  http://fraunhofer.de/robo/dm
+<http://fraunhofer.de/robo/dm> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "DM Drogerie Markt" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "dm"^^xsd:string ,
+                                                                                                        "dm-drogerie markt"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: a chain of retail stores headquartered in Karlsruhe, Germany, offering cosmetics, healthcare items, household products and health food and drinks."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/transporeon
+<http://fraunhofer.de/robo/transporeon> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Integrator> ;
+                                                         rdfs:label "Transporeon GmbH" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Transporeon"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from Transporeon: the transportation management platform for shippers, carriers, freight forwarders and trading companies to move, manage and monitor freight in an ever-changing world."^^xsd:string .
+###  http://fraunhofer.de/robo/geekplus
+<http://fraunhofer.de/robo/geekplus> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "Geek+" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Geekplus Technology Co., Ltd."^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from Geek+:an intelligent robot company shaping the smart logistics revolution. At Geek+, we develop autonomous mobile robots (AMRs) that handle various tasks, including picking, moving, and sorting. We've led the global AMR market share for three consecutive years, being declared the world's no.1 AMR leader."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/robotnik_automation
+<http://fraunhofer.de/robo/robotnik_automation> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "Robotnik Automation"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Robotnik"^^xsd:string ,
+                                                                                                        "Robotnik Automation S.L.L."^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: a Spanish company that specializes in robot product development and robotics R&D projects."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/dematic
+<http://fraunhofer.de/robo/dematic> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Integrator> ;
+                                                         rdfs:label "Dematic" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Dematic GmbH & Co. KG."^^xsd:string ,
+                                                                                                        "Dematic Group"^^xsd:string ,
+                                                                                                        "Deutsche Maschinenbau-Aktiengesellschaft"^^xsd:string ,
+                                                                                                        "Mannesmann Dematic AG."^^xsd:string ,
+                                                                                                        "Mechanische Werkstätten Harkort & Co."^^xsd:string ,
+                                                                                                        "Siemens Dematic AG."^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: an American supplier of materials handling systems, software and services. With a growth rate of 21.2% in 2021 Dematic was listed as the world's second-largest materials handling systems supplier with a revenue of 3.2 billion USD."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/cookplus
+<http://fraunhofer.de/robo/cookplus> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "Cookplus" .
+
+
+###  http://fraunhofer.de/robo/swisslog
+<http://fraunhofer.de/robo/swisslog> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         owl:sameAs <http://fraunhofer.de/robo/kuka_group> ;
+                                                         rdfs:label "Swisslog" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Sprecher + Schuh AG"^^xsd:string ,
+                                                                                                        "Swisslog Healthcare"^^xsd:string ,
+                                                                                                        "Swisslog Logistics Automation"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: a global company with Swiss roots, specializing in the delivery of logistics automation for warehouses and distribution centers. Headquartered in Buchs, Aargau, Switzerland, Swisslog provides automation products and services in more than 25 countries. As part of the KUKA Group, a German robotics and automation supplier, Swisslog has a workforce of more than 14,000 people."^^xsd:string .
+###  http://fraunhofer.de/robo/balloon_one
+<http://fraunhofer.de/robo/balloon_one> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Integrator> ;
+                                                         rdfs:label "Balloon One" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Balloon"^^xsd:string ,
+                                                                                                        "Balloon One Ltd."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/marley_spoon
+<http://fraunhofer.de/robo/marley_spoon> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "Marley Spoon" .
+
+
+###  http://fraunhofer.de/robo/reisser
+<http://fraunhofer.de/robo/reisser> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "Reisser" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Bertsche"^^xsd:string ,
+                                                                                                        "Glatt"^^xsd:string ,
+                                                                                                        "Hornung"^^xsd:string ,
+                                                                                                        "KFK"^^xsd:string ,
+                                                                                                        "KFK-Heizungs- und Sanitärgroßhandel Kayser GmbH & Co."^^xsd:string ,
+                                                                                                        "Reisser Gruppe"^^xsd:string ,
+                                                                                                        "W&W"^^xsd:string ,
+                                                                                                        "WILLERSINN UND WALTER"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from Reiiser: the specialists for sanitary supplies, bathroom furniture, installation materials, heating technology, supply and disposal, roofing and tools."^^xsd:string .
+
+###  http://fraunhofer.de/robo/tgw_logistics_group
+<http://fraunhofer.de/robo/tgw_logistics_group> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "TGW Logistics Group" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "TGW"^^xsd:string ,
+                                                                                                        "TGW Benelux"^^xsd:string ,
+                                                                                                        "TGW China Co. Ltd."^^xsd:string ,
+                                                                                                        "TGW France SAS"^^xsd:string ,
+                                                                                                        "TGW Ibérica Sistemas Logísticos S.L."^^xsd:string ,
+                                                                                                        "TGW Italia Srl"^^xsd:string ,
+                                                                                                        "TGW Limited, Market Harborough"^^xsd:string ,
+                                                                                                        "TGW Logistics Equipment Production (Changzhou) Co."^^xsd:string ,
+                                                                                                        "TGW Mechanics GmbH"^^xsd:string ,
+                                                                                                        "TGW Poland"^^xsd:string ,
+                                                                                                        "TGW Robotics"^^xsd:string ,
+                                                                                                        "TGW Scandinavia"^^xsd:string ,
+                                                                                                        "TGW Scandinavia AB"^^xsd:string ,
+                                                                                                        "TGW Software Services GmbH"^^xsd:string ,
+                                                                                                        "TGW Systems Inc."^^xsd:string ,
+                                                                                                        "TGW Systems Integration AG"^^xsd:string ,
+                                                                                                        "TGW Systems Integration GmbH"^^xsd:string ,
+                                                                                                        "TGW Transportgeräte GmbH"^^xsd:string ,
+                                                                                                        "TGW Turkey Sistem Entegrasyonu Ltd.Sti."^^xsd:string ,
+                                                                                                        "Transportgeräte Wels"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition by dbpedia:a systems integrator of automated warehouse solutions, headquartered in Marchtrenk, Austria. The company designs, manufactures, implements and maintains end-to-end fulfillment solutions - including everything from goods receipt to storage and order picking to shipping."^^xsd:string .
+###  http://fraunhofer.de/robo/element_logic
+<http://fraunhofer.de/robo/element_logic> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "Element Logic" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Element Logic Germany GmbH"^^xsd:string ,
+                                                                                                        "SDI"^^xsd:string ,
+                                                                                                        "SDI Industries"^^xsd:string ,
+                                                                                                        "SDI Industries, Inc."^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from Element Logic: Since 1985, Element Logic® has been optimizing warehouse performance. We are the world’s first, and largest AutoStore® partner. In 2022 Element Logic acquired SDI, making us one of the largest system integrators in the world."^^xsd:string .
+###  http://fraunhofer.de/robo/omron
+<http://fraunhofer.de/robo/omron> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "OMRON"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Omron Corporation"^^xsd:string ,
+                                                                                                        "Tateishi Electric Manufacturing Company"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: a Japanese electronics company based in Kyoto, Japan."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/migros_verteilbetrieb
+<http://fraunhofer.de/robo/migros_verteilbetrieb> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "Migros Verteilbetrieb AG" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Migros"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from Migros: the leading competence center for logistics services warehousing, packing, picking and distribution of near/non-food, food, textiles and frozen products."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/netto
+<http://fraunhofer.de/robo/netto> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "Netto" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Netto Marken-Discount"^^xsd:string ,
+                                                                                                        "Plus"^^xsd:string ,
+                                                                                                        "Prima leben und sparen"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: a German discount supermarket chain owned by the German supermarket cooperative Edeka Group, and operates mostly in the south and west of Germany."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/interroll_worldwide_group
+<http://fraunhofer.de/robo/interroll_worldwide_group> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Integrator> ;
+                                                         rdfs:label "The Interroll Worldwide Group" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Interroll"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from Wikipedia: a manufacturer of products for unit-load handling systems, internal logistics and automation."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/greyorange
+<http://fraunhofer.de/robo/greyorange> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "GreyOrange" .
+
+
+###  http://fraunhofer.de/robo/rocla_agv_solutions
+<http://fraunhofer.de/robo/rocla_agv_solutions> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "Rocla AGV Solutions" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Mitsubishi Logisnext Europe Oy"^^xsd:string ,
+                                                                                                        "Rocla AGV"^^xsd:string ,
+                                                                                                        "Rocla Oy"^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/hyundai_construction_equipment
+<http://fraunhofer.de/robo/hyundai_construction_equipment> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "Hyundai Construction Equipment" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Hyundai Construction"^^xsd:string ,
+                                                                                                        "Hyundai Construction Equipment Americas"^^xsd:string ,
+                                                                                                        "Hyundai Construction Equipment Americas, Inc."^^xsd:string ,
+                                                                                                        "Hyundai Construction Equipment Europe"^^xsd:string ,
+                                                                                                        "Hyundai Construction Equipment India"^^xsd:string ,
+                                                                                                        "Hyundai Construction Equipment Worldwide"^^xsd:string .
+###  http://fraunhofer.de/robo/trumpf
+<http://fraunhofer.de/robo/trumpf> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "TRUMPF" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Trumpf Group"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from Wikipedia: a German industrial machine manufacturing company."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/kasto_maschinenbau
+<http://fraunhofer.de/robo/kasto_maschinenbau> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Integrator> ;
+                                                         rdfs:label "KASTO Maschinenbau" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "KASTO"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: specialises in sawing and storage technology of bar stock. The company manufactures metal-cutting saws, semi-automatic and automatic storage systems as well as automatic handling systems for metal bars, sheet metal and pre-cut parts."^^xsd:string .  
+                                                         ###  http://fraunhofer.de/robo/cimcorp
+<http://fraunhofer.de/robo/cimcorp> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Integrator> ;
+                                                         rdfs:label "Cimcorp" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Cimcorp Automation Ltd."^^xsd:string ,
+                                                                                                        "Cimcorp Germany"^^xsd:string ,
+                                                                                                        "Cimcorp Group"^^xsd:string ,
+                                                                                                        "Cimcorp Iberia"^^xsd:string ,
+                                                                                                        "Cimcorp India"^^xsd:string ,
+                                                                                                        "Cimcorp North America"^^xsd:string ,
+                                                                                                        "Cimcorp Oy"^^xsd:string ,
+                                                                                                        "Cimcorp USA"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from Wikipedia: the parent company of Cimcorp Group, a supplier of automation systems for the tire industry."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/xpo_logistics
+<http://fraunhofer.de/robo/xpo_logistics> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "XPO Logistics" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "XPO"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: an American freight transportation company that provides less-than-truckload and truck brokerage services in 18 countries."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/kuka_group
+<http://fraunhofer.de/robo/kuka_group> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "KUKA Group" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Industrie-Werke Karlsruhe Augsburg Aktiengesellschaft"^^xsd:string ,
+                                                                                                        "KUKA"^^xsd:string ,
+                                                                                                        "KUKA AG"^^xsd:string ,
+                                                                                                        "KUKA Schweissanlagen und Roboter GmbH"^^xsd:string ,
+                                                                                                        "KUKA Systems"^^xsd:string ,
+                                                                                                        "KUKA Systems GmbH"^^xsd:string ,
+                                                                                                        "KUKA Umwelttechnik GmbH"^^xsd:string ,
+                                                                                                        "KUKA Wehrtechnik GmbH"^^xsd:string ,
+                                                                                                        "Keller und Knappich Augsburg"^^xsd:string ,
+                                                                                                        "LSW Maschinenfabrik GmbH"^^xsd:string ,
+                                                                                                        "Schwarzenberg GmbH"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "a German manufacturer of industrial robots and systems for factory automation."^^xsd:string .
+###  http://fraunhofer.de/robo/pcdata_logistics_automation
+<http://fraunhofer.de/robo/pcdata_logistics_automation> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Integrator> ;
+                                                         rdfs:label "Pcdata Logistics Automation" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Pcdata"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from Pcdata: a global leader in logistics automation systems for consumer goods, and partner of choice in the industrial bakery world."^^xsd:string .
+###  http://fraunhofer.de/robo/locus_robotics
+<http://fraunhofer.de/robo/locus_robotics> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "Locus Robotics" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Locus Robotics Corp."^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definitionn from Locus Robotics: an innovative robotic process automation company offers automated warehouse robots that increase productivity, order accuracy and more."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/allmatic
+<http://fraunhofer.de/robo/allmatic> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "ALLMATIC" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "ALLMATIC-Jakob"^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/autoguide_mobile_robots
+<http://fraunhofer.de/robo/autoguide_mobile_robots> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "AutoGuide Mobile Robots" ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from LinkedIn: a Teradyne company, designs, develops and manufactures industrial autonomous mobile robots for assembly, manufacturing, warehousing and distribution operations across multiple industries."^^xsd:string .
+###  http://fraunhofer.de/robo/walmart
+<http://fraunhofer.de/robo/walmart> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "Walmart" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Flipkart Wholesale"^^xsd:string ,
+                                                                                                        "Sam's Club"^^xsd:string ,
+                                                                                                        "Sam's Clubs"^^xsd:string ,
+                                                                                                        "Total Walmart Inc."^^xsd:string ,
+                                                                                                        "Wal-Mart Discount City"^^xsd:string ,
+                                                                                                        "Wal-Mart, Inc."^^xsd:string ,
+                                                                                                        "Walmart Canada"^^xsd:string ,
+                                                                                                        "Walmart Global Tech"^^xsd:string ,
+                                                                                                        "Walmart Inc."^^xsd:string ,
+                                                                                                        "Walmart International"^^xsd:string ,
+                                                                                                        "Walmart Labs"^^xsd:string ,
+                                                                                                        "Walmart Neighborhood Market"^^xsd:string ,
+                                                                                                        "Walmart Supercenter"^^xsd:string ,
+                                                                                                        "Walmart U.S."^^xsd:string ,
+                                                                                                        "Walmart de México y Centroamérica"^^xsd:string ,
+                                                                                                        "Wal–Mart Stores, Inc."^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: an American multinational retail corporation that operates a chain of hypermarkets (also called supercenters), discount department stores, and grocery stores from the United States, headquartered in Bentonville, Arkansas."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/fanuc
+<http://fraunhofer.de/robo/fanuc> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "FANUC"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "FANUC America Corporation"^^xsd:string ,
+                                                                                                        "FANUC CNC America"^^xsd:string ,
+                                                                                                        "FANUC Corporation"^^xsd:string ,
+                                                                                                        "FANUC Europe Corporation S.A."^^xsd:string ,
+                                                                                                        "FANUC Ltd"^^xsd:string ,
+                                                                                                        "FANUC Ltd."^^xsd:string ,
+                                                                                                        "Fanakku Kabushikigaisha"^^xsd:string ,
+                                                                                                        "ファナック株式会社"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: a Japanese group of companies that provide automation products and services such as robotics and computer numerical control wireless systems."^^xsd:string .
+###  http://fraunhofer.de/robo/picnic
+<http://fraunhofer.de/robo/picnic> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "Picnic" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "P!CNIC"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from picnic: an online supermarket that delivers your shopping to your home for free."^^xsd:string .
+
+###  http://fraunhofer.de/robo/dachser
+<http://fraunhofer.de/robo/dachser> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "DACHSER"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Dachser Group"^^xsd:string ,
+                                                                                                        "Dachser Group SE & Co. KG"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: a German freight company, founded by Thomas Dachser in 1930, with its headquarters stationed at Kempten in the Allgäu region."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/teknokom
+<http://fraunhofer.de/robo/teknokom> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Integrator> ;
+                                                         rdfs:label "Teknokom" ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from Teknokom: a System Integrator who carries out qualified works within the IT Sector"^^xsd:string .
+
+###  http://fraunhofer.de/robo/uno_logistics
+<http://fraunhofer.de/robo/uno_logistics> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "UNO Logistics" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "UNO"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from UNO: a privately owned Global Logistics player. The team has more than 20 years of Experience in the field of Logistics & Transport and has wide range of services viz. Freight Forwarding, Customs Brokerage, Warehousing & Distribution and Supply chain management."^^xsd:string .
+###  http://fraunhofer.de/robo/clearpath
+<http://fraunhofer.de/robo/clearpath> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "Clearpath" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Clearpath Robotics"^^xsd:string ,
+                                                                                                        "Clearpath Robotics, Inc."^^xsd:string ,
+                                                                                                        "OTTO Motors"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: was founded in 2009 by a group of four University of Waterloo graduates, and remains headquartered in Waterloo Region, Canada. The original goal of Clearpath was to streamline field robotics research for universities and private corporations, but the company has since expanded and is now also manufacturing and selling the OTTO line of self-driving vehicles for industrial environments."^^xsd:string .
+###  http://fraunhofer.de/robo/agilox
+<http://fraunhofer.de/robo/agilox> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Competitor> ;
+                                                         rdfs:label "Agilox" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "AGILOX Services GmbH"^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/gap
+<http://fraunhofer.de/robo/gap> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "Gap Inc." ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Athleta"^^xsd:string ,
+                                                                                                        "Baby Gap"^^xsd:string ,
+                                                                                                        "Banana Republic"^^xsd:string ,
+                                                                                                        "GAP"^^xsd:string ,
+                                                                                                        "GAP Kids"^^xsd:string ,
+                                                                                                        "GapKids"^^xsd:string ,
+                                                                                                        "Old Navy"^^xsd:string ,
+                                                                                                        "The Gap, Inc."^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: an American worldwide clothing and accessories retailer."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/fastems
+<http://fraunhofer.de/robo/fastems> rdf:type owl:NamedIndividual ,
+                                                                  <http://fraunhofer.de/robo/Integrator> ;
+                                                         rdfs:label "Fastems" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Fastems Group"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from Fastems:  a world-leading supplier of CNC automation solutions with over 40 years and 4500 installations of experience with over 100 machine tool and other device brands."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/decathlon
+<http://fraunhofer.de/robo/decathlon> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "DECATHLON" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Decathlon Group"^^xsd:string ,
+                                                                                                        "Decathlon S.A."^^xsd:string ,
+                                                                                                        "Oxylane"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: a French sporting goods retailer. With over 1697 stores in 60 countries and regions (2020), it is the largest sporting goods retailer in the world."^^xsd:string .
+###  http://fraunhofer.de/robo/accenture
+<http://fraunhofer.de/robo/accenture> rdf:type owl:NamedIndividual ,
+                                                                 <http://fraunhofer.de/robo/Integrator> ;
+                                                        rdfs:label "Accenture plc" ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "Accenture"^^xsd:string ,
+                                                                                                       "Andersen Consulting"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: an Ireland-based multinational professional services company that specialises in information technology (IT) services and consulting."^^xsd:string .
+###  http://fraunhofer.de/robo/lactalis_group
+<http://fraunhofer.de/robo/lactalis_group> rdf:type owl:NamedIndividual ,
+                                                                  :Customer ;
+                                                         rdfs:label "Lactalis Group" ;
+                                                         <http://www.w3.org/2004/02/skos/core#altLabel> "Besnier SA"^^xsd:string ,
+                                                                                                        "Lactalis"^^xsd:string ;
+                                                         <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: a French multinational dairy products corporation, owned by the Besnier family and based in Laval, Mayenne, France."^^xsd:string .
+###  http://fraunhofer.de/robo/ar_racking
+<http://fraunhofer.de/robo/ar_racking> rdf:type owl:NamedIndividual ,
+                                                                 <http://fraunhofer.de/robo/Integrator> ;
+                                                        rdfs:label "AR Racking" ;
+                                                        <http://www.w3.org/2004/02/skos/core#definition> "Definition from AR Racking: a company specialized in designing, manufacturing, calculating, and installing industrial racking and storage systems for heavy and light loads, complying with the most stringent European standards."^^xsd:string .
+###  http://fraunhofer.de/robo/asti_mobile_robotics
+<http://fraunhofer.de/robo/asti_mobile_robotics> rdf:type owl:NamedIndividual ,
+                                                                 <http://fraunhofer.de/robo/Competitor> ;
+                                                        owl:sameAs <http://fraunhofer.de/robo/RdNqTb2FuL1trXV1d1jUrM> ;
+                                                        rdfs:label "ASTI Mobile Robotics" ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "ASTI"^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/sk_pharma_logistics
+<http://fraunhofer.de/robo/sk_pharma_logistics> rdf:type owl:NamedIndividual ,
+                                                                 :Customer ;
+                                                        rdfs:label "SK Pharma Logistics" ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "SK Pharma Logistics GmbH"^^xsd:string ,
+                                                                                                       "SK-Pharma"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#definition> "Definition from SK: a logistics company based in Germany and ships pharmaceutical products throughout Europe and worldwide."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/fedex
+<http://fraunhofer.de/robo/fedex> rdf:type owl:NamedIndividual ,
+                                                                 :Customer ;
+                                                        rdfs:label "FedEx" ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "FDX Corporation"^^xsd:string ,
+                                                                                                       "FedEx Corporation"^^xsd:string ,
+                                                                                                       "Federal Express"^^xsd:string ,
+                                                                                                       "Federal Express Corporation"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: an American multinational conglomerate holding company focused on transportation, e-commerce and business services based in Memphis, Tennessee"^^xsd:string .
+
+###  http://fraunhofer.de/robo/xxl
+<http://fraunhofer.de/robo/xxl> rdf:type owl:NamedIndividual ,
+                                                                 :Customer ;
+                                                        rdfs:label "XXL" ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "XXL Sport & Villmark"^^xsd:string ,
+                                                                                                       "XXL Sports & Outdoor"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#definition> "Definition from wikipedia: a Norwegian sporting goods retailer with brick and mortar stores and online stores in the Nordics and Austria. XXL is the largest and fastest growing sports retailer by revenue in the Nordic region."^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/abb
+<http://fraunhofer.de/robo/abb> rdf:type owl:NamedIndividual ,
+                                                                 <http://fraunhofer.de/robo/Competitor> ;
+                                                        rdfs:label "ABB" ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "ABBN"^^xsd:string ,
+                                                                                                       "ASEA"^^xsd:string ,
+                                                                                                       "ASEA Brown Boveri"^^xsd:string ,
+                                                                                                       "Allmänna Svenska Elektriska Aktiebolaget"^^xsd:string ,
+                                                                                                       "Brown, Boveri & Cie"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#definition> "Definition from dbpedia: formerly ASEA Brown Boveri, is a Swedish–Swiss multinational corporation headquartered in Zürich, Switzerland, operating mainly in robotics, power, heavy electrical equipment, and automation technology areas."^^xsd:string .
+###  http://fraunhofer.de/robo/durstexpress
+<http://fraunhofer.de/robo/durstexpress> rdf:type owl:NamedIndividual ,
+                                                                 :Customer ;
+                                                        rdfs:label "Durstexpress KG" ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "Durstexpress"^^xsd:string ,
+                                                                                                       "flaschenpost"^^xsd:string .
+
+
+###  http://fraunhofer.de/robo/hebi_robotics
+<http://fraunhofer.de/robo/hebi_robotics> rdf:type owl:NamedIndividual ,
+                                                                 :Customer ;
+                                                        rdfs:label "Hebi Robotics" ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "HEBI"^^xsd:string .
+###  http://fraunhofer.de/robo/neovia_logistics
+<http://fraunhofer.de/robo/neovia_logistics> rdf:type owl:NamedIndividual ,
+                                                                 :Customer ;
+                                                        rdfs:label "Neovia Logistics" ;
+                                                        <http://www.w3.org/2004/02/skos/core#altLabel> "Caterpillar Inc."^^xsd:string ,
+                                                                                                       "Caterpillar Logistics Services Inc."^^xsd:string ,
+                                                                                                       "Neovia"^^xsd:string ;
+                                                        <http://www.w3.org/2004/02/skos/core#definition> "Definition from Neovia: a global leader in third-party logistics, operating more than 100 facilities in 20 plus countries across six continents."^^xsd:string .
+
