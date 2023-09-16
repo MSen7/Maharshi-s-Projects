@@ -366,7 +366,7 @@ ma:manufactures rdf:type owl:ObjectProperty ;
                                                                "fabricate"@en ,
                                                                "produce"@en .
 ###  http://fraunhofer.de/MarketActivities/partners_with
-ma:partners_with rdf:type owl:ObjectProperty ;
+ma:partners_with rdf:type owl:ObjectProperty,owl:SymmetricProperty  ;
                  rdfs:subPropertyOf owl:topObjectProperty ;
                  rdfs:domain <http://www.w3.org/ns/org#Organization> ;
                  rdfs:range <http://www.w3.org/ns/org#Organization> ;
