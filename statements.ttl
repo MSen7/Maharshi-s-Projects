@@ -1,0 +1,1199 @@
+
+<http://article.wn.com/view/2016/05/25/Hydrogen_Fuel_Cell_Bus_Hits_OC_Streets_OCTA_Orange_County_Tr/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<http://ciltuk.org.uk/News/LatestNews/TabId/235/ArtMID/6887/ArticleID/8897/Government-to-roll-out-promotion-of-hydrogen-efficient-fleets.aspx>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<http://energy.gov/eere/articles/energy-department-announces-climate-action-champion-city-san-francisco-embracing>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<http://fraunhofer.de/data/%27green%27_hydrogen> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/1st_Hydrogen_NEXO_Vehicle> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/2020> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/ACWA_Power> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/ALICE> a <http://fraunhofer.de/MarketActivities/Manufacturer>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/AUVSI> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Activision> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Advance_Article> a <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#RegionalTruck> .
+
+<http://fraunhofer.de/data/Alfa_Laval> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Alliance> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher> .
+
+<http://fraunhofer.de/data/Amazon> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Ammonia> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/Ammonia_Fuel_Cells> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#AmmoniaFuelCell>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Antiseptic_Mouth_Wash> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Archive.org> a <http://fraunhofer.de/MarketActivities/Researcher> .
+
+<http://fraunhofer.de/data/Australia> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/Avions_Mauboussin> a <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Beijing> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Beijing_Daily> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Beiqi_Foton_Motor> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Bloom> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Blue_World_Technologies> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product> .
+
+<http://fraunhofer.de/data/Breakthrough_Energy_Ventures> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://schema.org/Project> .
+
+<http://fraunhofer.de/data/Brooklyn_College_of_the_City_University_of_New_York> a
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Research> .
+
+<http://fraunhofer.de/data/CAF> a <http://fraunhofer.de/MarketActivities/Researcher> .
+
+<http://fraunhofer.de/data/CD_Projekt_Red> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/CEC> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Cariba_Heine> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Cellcentric> a <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/Channel_10> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/China> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/Climate_Action_Champions> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/Climate_Pledge_Fund> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/Compression> a <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/CrystEngComm> a <http://fraunhofer.de/MarketActivities/Manufacturer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/DNI> a <http://fraunhofer.de/MarketActivities/Manufacturer> .
+
+<http://fraunhofer.de/data/DOI> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Daimler_AG> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Daimler_Truck_AG> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Truck> .
+
+<http://fraunhofer.de/data/Daimler_Truck_Fuel_Cell> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Daimler_Truck_Fuel_Cell_GmbH_%26_Co.KG> a <http://fraunhofer.de/MarketActivities/Manufacturer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Truck> .
+
+<http://fraunhofer.de/data/Dedicated_Fuel_Cell_System> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Deep-Sea_Shipping> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Marine> .
+
+<http://fraunhofer.de/data/Development_of_a_Hydrogen_Infrastructure> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/Dezember_2020> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/Doritos> a <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/ECH2A> a <http://fraunhofer.de/MarketActivities/Manufacturer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Embracing_Hydrogen_and_Fuel_Cell_Technologies_Energy_Department>
+  a <http://fraunhofer.de/MarketActivities/inProduction>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Energy_Department> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/English> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/European> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/European_Clean_Hydrogen_Alliance> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/European_Union> a <http://fraunhofer.de/MarketActivities/Manufacturer>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Featured_Company_Featured_Company_DNI_Metals_Inc> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://www.w3.org/ns/regorg#RegisteredOrganization> .
+
+<http://fraunhofer.de/data/Flake> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/Fortescue_Metals_Group> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Franco-German> a <http://fraunhofer.de/MarketActivities/Customer> .
+
+<http://fraunhofer.de/data/FuelCellsWorks> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/Fuel_Cell> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inResearch>,
+    <http://fraunhofer.de/MarketActivities/inTesting>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Fuel_Cell_Business> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Fuel_Cell_Polarized> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Fuel_Cell_System> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Fuel_Cell_Technologies> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Fuel_Cell_Vehicles> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/Fuel_Cells> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Fuel_cell_power_pack> a <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Fukushima> a <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Fukushima_Prefecture> a <http://fraunhofer.de/MarketActivities/Researcher> .
+
+<http://fraunhofer.de/data/GLOBE_NEWSWIRE> a <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/GazelEnergie_Join_Forces> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/Geely_Hydrogen_Fuel_Cell> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/German> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/Germany> a <http://fraunhofer.de/MarketActivities/Manufacturer> .
+
+<http://fraunhofer.de/data/GlobeNewswire_Advanced_TORONTO> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Green_Hydrogen> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inResearch>,
+    <http://fraunhofer.de/MarketActivities/inTesting>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Conversion> .
+
+<http://fraunhofer.de/data/Green_hydrogen> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inResearch>,
+    <http://fraunhofer.de/MarketActivities/inTesting>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Conversion> .
+
+<http://fraunhofer.de/data/H2> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/H20> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/H2O2> a <http://fraunhofer.de/MarketActivities/Manufacturer>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inResearch>,
+    <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/H2O_Molecules> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/HTWO> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/Heavy_Duty_Vehicles-Hydrogen> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Truck> .
+
+<http://fraunhofer.de/data/High_Pressure_Hydrogen_Tanks> a <http://fraunhofer.de/MarketActivities/Manufacturer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/HyET_Hydrogen> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Hydrogen> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/Hydrogen_%26_Fuel_Cells> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Hydrogen_Cars> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car> .
+
+<http://fraunhofer.de/data/Hydrogen_Evolution> a <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/Hydrogen_Fuel_Cell> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inResearch>,
+    <http://fraunhofer.de/MarketActivities/inTesting>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Hydrogen_Fuel_Cell_Buses> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Bus>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Hydrogen_Infrastructure> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Hydrogen_NEXO_Vehicle_POSCO> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/Hydrogen_Peroxide> a <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inResearch>,
+    <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/Hydrogen_and_Fuel_Cell_Technologies> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Hydrogen_fuel_cars> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car> .
+
+<http://fraunhofer.de/data/Hydrogen_fuel_cells> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Hydrogen_plane> a <http://fraunhofer.de/MarketActivities/Manufacturer>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Aircraft> .
+
+<http://fraunhofer.de/data/Hyundai> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/Hyundai_Motor_Group> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Manufacturing> .
+
+<http://fraunhofer.de/data/IEEE_Spectrum> a <http://fraunhofer.de/MarketActivities/Manufacturer>,
+    <http://fraunhofer.de/MarketActivities/Researcher> .
+
+<http://fraunhofer.de/data/Inabe_Plant> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/Include_Hydrogen> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/Industry_News> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/James_Frimen_/_Friday> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Japan> a <http://fraunhofer.de/MarketActivities/Manufacturer>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/Kawasaki_Heavy_Industries> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Korea_Institute_of_Science_and_Technology> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://www.w3.org/ns/regorg#RegisteredOrganization> .
+
+<http://fraunhofer.de/data/LONDON> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/Latest_Poll> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/Lhyfe> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Lithium_Ion_Battery> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/Lithium_Ion_Battery_and_Fuel_Cell> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Battery>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#LithiumBattery>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/MAHLE> a <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Maanshan_City> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Mads_Friis_Jensen> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/Many_provinces_and_cities> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher> .
+
+<http://fraunhofer.de/data/Masamichi_Okada> a <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Matthias_Jurytko> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/McPhy> a <http://fraunhofer.de/MarketActivities/Customer> .
+
+<http://fraunhofer.de/data/Methanol_fuel_cell_system> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#EthanolFuelCell>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#MethanolFuelCell>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Mitsui_O.S.K._Lines> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Mn-Ru> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/MnCNRu> a <http://fraunhofer.de/MarketActivities/Manufacturer>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/More_Deals_%26_Coupons> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car> .
+
+<http://fraunhofer.de/data/Motomachi_Plant> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/NJC> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Nafion> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Near_Future_Propulsion_Extras> a <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/News_Engineered_Products> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Nick_Carey> a <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/OCTA> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/ORR> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Oakley_Men> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Oakley_Men%27s_Sunglasses> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Orange_County_Transportation_Authority> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Mobile> .
+
+<http://fraunhofer.de/data/Org> a <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/POSTECH_University> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Research> .
+
+<http://fraunhofer.de/data/Perovskites_crystals> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/Petrochemical_Corporation> a <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Phenanthrene_Skeletons> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/Plug_Power_Fuel_Cells> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Position_yourself_for_advantage> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#RegionalTruck> .
+
+<http://fraunhofer.de/data/Post_Ammonia_Fuel_Cells> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#AmmoniaFuelCell>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/Powertrain_Daimler_Trucks_division> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Train>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Truck> .
+
+<http://fraunhofer.de/data/Project> a <http://schema.org/Project> .
+
+<http://fraunhofer.de/data/Ref._XX> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/Renewable_hydrogen> a <http://fraunhofer.de/MarketActivities/Manufacturer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inResearch>,
+    <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/Reuters> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/Royal_Society_of_Chemistry> a <http://fraunhofer.de/MarketActivities/Researcher> .
+
+<http://fraunhofer.de/data/SOFC4Maritime> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Marine>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#SolidOxideFuelCell> .
+
+<http://fraunhofer.de/data/STOL> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Aircraft> .
+
+<http://fraunhofer.de/data/STT> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher> .
+
+<http://fraunhofer.de/data/San_Francisco> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/San_Francisco_Clean_Cities_Coalition> a <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Santa_Cruz> a <http://fraunhofer.de/MarketActivities/Researcher> .
+
+<http://fraunhofer.de/data/SoCalGas> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Southeast> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/Southern_California> a <http://fraunhofer.de/MarketActivities/Customer> .
+
+<http://fraunhofer.de/data/Spanish_utility_Iberdrola> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Spyro_Reignited> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/Stellantis> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Stockholm_University> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Research> .
+
+<http://fraunhofer.de/data/Storengy> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Strategic_Analysis%2C_Inc> a <http://fraunhofer.de/MarketActivities/Researcher> .
+
+<http://fraunhofer.de/data/Strategic_Analysis%2C_Inc.> a <http://fraunhofer.de/MarketActivities/Researcher> .
+
+<http://fraunhofer.de/data/Sunglasses> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/Switch_to_Hydrogen_Buses> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Bus> .
+
+<http://fraunhofer.de/data/TME> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inResearch>,
+    <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/Talgo> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Talgo_Vittal-One> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/The_Clean_Hydrogen_Alliance> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/The_European_Union> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/The_Korea_Institute_of_Science_and_Technology> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.w3.org/ns/regorg#RegisteredOrganization> .
+
+<http://fraunhofer.de/data/Thiebault_Paquet> a <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Tokyo_and_the_Fukushima_Prefecture> a <http://fraunhofer.de/MarketActivities/Researcher> .
+
+<http://fraunhofer.de/data/Town_council> a <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Toyoda_Gosei> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Toyoda_Gosei_Co._%2C_Ltd> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Toyota> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/Toyota_Motor_Corporation> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Manufacturing> .
+
+<http://fraunhofer.de/data/Toyota_Motor_Europe> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Manufacturing> .
+
+<http://fraunhofer.de/data/Tuesday> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/Twitter> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/UAM%2C_automobiles%2C_vessels_and_trains> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Train> .
+
+<http://fraunhofer.de/data/UK> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/University> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Research> .
+
+<http://fraunhofer.de/data/University_of_Mannheim> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Research> .
+
+<http://fraunhofer.de/data/Vanguard> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Video> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/Volvo> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Volvo_AB> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Volvo_Group> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/Wind_Hunter_Project> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://schema.org/Project> .
+
+<http://fraunhofer.de/data/ZEV> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/ZeroAvia> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/Zhao> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/a_%C2%A32_million_government_fund> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/a_controlling_agent> a <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/a_fuel_cell_electric> a <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inResearch>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/a_nano-metal_catalyst> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/a_new_technology> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product> .
+
+<http://fraunhofer.de/data/a_product_that_gamers_can_enjoy_as_intended> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product> .
+
+<http://fraunhofer.de/data/a_six-seater_propeller_plane_powered_by_hydrogen> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Aircraft> .
+
+<http://fraunhofer.de/data/air_conditioning> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/aircraft> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Aircraft> .
+
+<http://fraunhofer.de/data/ammonia> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/application> a <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Application> .
+
+<http://fraunhofer.de/data/applications> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Application> .
+
+<http://fraunhofer.de/data/batteries> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Battery> .
+
+<http://fraunhofer.de/data/benchmark_solutions> a <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/carandbike.com> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Bike>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car> .
+
+<http://fraunhofer.de/data/carbon-free_hydrogen> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car> .
+
+<http://fraunhofer.de/data/catalyst> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inResearch>,
+    <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/cellcentric> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/clean_energy> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/clean_technology_revolution> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/contribute_to_the_development_of_zero-carbon_hydrogen>
+  a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Bus>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/cyano-bridged_coordination_polymers> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/decarbonising_road_transport> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Mobile> .
+
+<http://fraunhofer.de/data/discovery> a <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Intangible> .
+
+<http://fraunhofer.de/data/electric_vans> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#RegionalTruck> .
+
+<http://fraunhofer.de/data/electric_vehicles> a <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/fossil_fuel> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#FossilFuel> .
+
+<http://fraunhofer.de/data/freight-hauling_trucks> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Truck> .
+
+<http://fraunhofer.de/data/fuel-cell_joint_venture> a <http://schema.org/Project> .
+
+<http://fraunhofer.de/data/fuel_and> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/fuel_cell> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/fuel_cell_business> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Bus> .
+
+<http://fraunhofer.de/data/fuel_cell_electric_vehicles> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/fuel_cell_modules> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/fuel_cell_system> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inResearch>,
+    <http://fraunhofer.de/MarketActivities/inTesting>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/fuel_cell_vehicles> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inTesting>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/fuel_cells> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/fuel_cells_are> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/gas_storage_and_the_development_of_renewable_gases> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/governments_and_businesses> a <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/green> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/green_hydrogen> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Conversion> .
+
+<http://fraunhofer.de/data/heavy-duty_vehicles> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/high_pressure_hydrogen_tanks> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/highly-compressed_hydrogen> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/hydrogen> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/hydrogen-bond_donor_scaffolds> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/hydrogen-powered_planes> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Aircraft> .
+
+<http://fraunhofer.de/data/hydrogen_and_fuel> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/hydrogen_and_fuel_cell_technologies> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/hydrogen_carrier> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car> .
+
+<http://fraunhofer.de/data/hydrogen_cars> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car> .
+
+<http://fraunhofer.de/data/hydrogen_fuel> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inResearch>,
+    <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/hydrogen_fuel_%2C> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/hydrogen_fuel_and> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/hydrogen_fuel_and_wind_power> a <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inResearch>,
+    <http://fraunhofer.de/MarketActivities/inTesting>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell_system> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/hydrogen_fuel_cells> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/hydrogen_fueling_stations> a <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/hydrogen_in> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/hydrogen_production> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#HydrogenProduct>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product> .
+
+<http://fraunhofer.de/data/hydrogen_projects> a <http://fraunhofer.de/MarketActivities/Manufacturer>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://schema.org/Project> .
+
+<http://fraunhofer.de/data/hydrogen_tank> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/hydrogen_technology> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#HydrogenProduct>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product> .
+
+<http://fraunhofer.de/data/hydrogen_train> a <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Train> .
+
+<http://fraunhofer.de/data/hydrogen_trains> a <http://fraunhofer.de/MarketActivities/Manufacturer>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inResearch>,
+    <http://fraunhofer.de/MarketActivities/inTesting>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Train> .
+
+<http://fraunhofer.de/data/hydrogen_transportation> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Mobile>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Transport> .
+
+<http://fraunhofer.de/data/hydrogen_vehicle_fleet> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/journal_articles%2C_books_or_book_chapters> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/ketoximes> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/liquefied_hydrogen_carrier> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car> .
+
+<http://fraunhofer.de/data/local_transportation> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Mobile> .
+
+<http://fraunhofer.de/data/methanol> a <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inResearch>,
+    <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/methanol_fuel_cell> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#EthanolFuelCell>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#MethanolFuelCell>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/minimizing_carbon_dioxide_emissions> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car> .
+
+<http://fraunhofer.de/data/mining> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher> .
+
+<http://fraunhofer.de/data/mobility> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/mouth_wash> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/multi-use_passenger_vehicles> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/nano-metal_catalyst> a <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/natural_gas> a <http://fraunhofer.de/MarketActivities/Manufacturer>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/natural_gas_distribution_system> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Bus> .
+
+<http://fraunhofer.de/data/new_hydrogen_vehicle> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/next-generation> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/oxygen_reduction_reaction> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/planned> a <http://fraunhofer.de/MarketActivities/Researcher> .
+
+<http://fraunhofer.de/data/polymer> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/produce> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/inProduction>, <http://fraunhofer.de/MarketActivities/inResearch>,
+    <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/product> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product> .
+
+<http://fraunhofer.de/data/production> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product> .
+
+<http://fraunhofer.de/data/products> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product> .
+
+<http://fraunhofer.de/data/project> a <http://schema.org/Project> .
+
+<http://fraunhofer.de/data/proton-conducting_fuel_cells> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion> .
+
+<http://fraunhofer.de/data/proton-conducting_polymers> a <http://fraunhofer.de/MarketActivities/Manufacturer> .
+
+<http://fraunhofer.de/data/proton_exchange_membranes> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Membrane> .
+
+<http://fraunhofer.de/data/prototype> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inTesting>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Tangible> .
+
+<http://fraunhofer.de/data/railway_lines> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Train> .
+
+<http://fraunhofer.de/data/rearview_mirror_car> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car> .
+
+<http://fraunhofer.de/data/renewable_and_low-carbon_hydrogen> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inTesting>, <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car> .
+
+<http://fraunhofer.de/data/renewable_energy> a <http://fraunhofer.de/MarketActivities/Manufacturer>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/renewable_energy_sources> a <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/reproduction> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product> .
+
+<http://fraunhofer.de/data/research/_media_organizations> a <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/road_transport> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Mobile> .
+
+<http://fraunhofer.de/data/small_aircraft> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Aircraft> .
+
+<http://fraunhofer.de/data/solar> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/solar_energy> a <http://fraunhofer.de/MarketActivities/Researcher> .
+
+<http://fraunhofer.de/data/solid_oxide_fuel_cells> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#SolidOxideFuelCell> .
+
+<http://fraunhofer.de/data/technology> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Researcher>,
+    <http://fraunhofer.de/MarketActivities/Supplier>, <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product> .
+
+<http://fraunhofer.de/data/testing_and_vaccination_strategy> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/the_%E2%80%9C_European_Clean_Hydrogen_Alliance> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch> .
+
+<http://fraunhofer.de/data/the_Alfa_Laval_Test_and_Training_Centre> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Train> .
+
+<http://fraunhofer.de/data/the_Suiso_Frontier> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting> .
+
+<http://fraunhofer.de/data/the_plan_that_the_commission_recently_approved> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/the_production> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Manufacturer>, <http://fraunhofer.de/MarketActivities/Supplier> .
+
+<http://fraunhofer.de/data/to_replace_heavy-duty_trucks_powered_by_diesel_fuel> a
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Truck> .
+
+<http://fraunhofer.de/data/today> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/transportation_in> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Mobile> .
+
+<http://fraunhofer.de/data/transportation_is> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Mobile> .
+
+<http://fraunhofer.de/data/truck> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Truck> .
+
+<http://fraunhofer.de/data/vans> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#RegionalTruck> .
+
+<http://fraunhofer.de/data/vehicles> a <http://fraunhofer.de/MarketActivities/Customer>,
+    <http://fraunhofer.de/MarketActivities/Researcher>, <http://fraunhofer.de/MarketActivities/Supplier>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/vehicles_and_portable_devices> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road> .
+
+<http://fraunhofer.de/data/venture> a <http://schema.org/Project> .
+
+<http://fraunhofer.de/data/water_when_it_burns> a <http://fraunhofer.de/MarketActivities/inProduction> .
+
+<http://fraunhofer.de/data/zero-carbon_hydrogen> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car> .
+
+<http://fraunhofer.de/data/zero-carbon_hydrogen_solutions> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car> .
+
+<http://fraunhofer.de/data/zero-emission_commercial_aircraft> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Aircraft> .
+
+<http://fraunhofer.de/data/zero-emission_electric_cars> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car> .
+
+<http://fraunhofer.de/data/zero-emission_hydrogen_fuel_cell_bus> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Bus> .
+
+<http://fraunhofer.de/data/zero-emission_technology> a <http://fraunhofer.de/MarketActivities/inProduction>,
+    <http://fraunhofer.de/MarketActivities/inResearch>, <http://fraunhofer.de/MarketActivities/inTesting>,
+    <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product> .
+
+<http://fraunhofer.de/data/zero-emission_train> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Train> .
+
+<http://fraunhofer.de/data/zero_emissions_transportation> a <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Mobile> .
+
+<http://hydrogentoday.info/news/1551> a <http://purl.org/dc/terms/BibliographicResource> .
+
+<http://phoenixsun.co.za/34773/tuesday-life-hack-5-uses-for-hydrogen-peroxide/> a
+    <http://purl.org/dc/terms/BibliographicResource> .
+
+<http://pubs.rsc.org/en/Content/ArticleLanding/2016/TA/C6TA01470D> a <http://purl.org/dc/terms/BibliographicResource> .
+
+<http://southafrica.cleantechopen.org/2016/05/20/sharks-electric-field-sixth-sense-could-inspire-better-fuel-cells/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<http://www.4-traders.com/news/China-Petrochemical-Sinopec-rsquo-s-diesel-hydrogenation-technology-wins-bidding-of-Brunei-project--22414754/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<http://www.avweb.com/podcast/Podcast-Dr-Josef-Kallo-On-Fuel-Cell-Progress-226201-1.html>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<http://www.hydrogenfuelnews.com/renewable-hydrogen-fuel-production-begin-fukushima-japan/8528841/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<http://www.jeccomposites.com/knowledge/international-composites-news/talgo%E2%80%99s-hydrogen-train-will-be-ready-2023>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<http://www.myjournals.org/index.php?nr=393867> a <http://purl.org/dc/terms/BibliographicResource> .
+
+<http://www.onenewspage.com/n/Automotive/759n5mi4u/IHS-Says-Hydrogen-Cars-Are-at-Crossroad.htm>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<http://www.virtual-strategy.com/2016/05/25/dni-metals-inc-appoints-lithium-ion-battery-and-fuel-cell-experts-board-directors>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://archive.org/details/NearFuturePropulsionExtras-0.5.3> a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://autotechinsight.ihsmarkit.com/news/5260191/mahle-opens-new-test-center-in-germany-for-fuel-cells>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://fuelcellsworks.com/news/dr-matthias-jurytko-takes-over-the-management-of-the-fuel-cell-joint-venture-cellcentric/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://fuelcellsworks.com/news/friday-fallback-story-storengy-and-gazelenergie-join-forces-coal-fired-power-stations-to-be-converted-to-hydrogen/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://fuelcellsworks.com/news/kist-develops-nanocatalyst-that-has-2-5-times-the-efficiency-of-extracting-hydrogen-fuel-from-ammonia/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://fuelcellsworks.com/news/mcphy-is-proud-to-be-a-member-of-the-european-clean-hydrogen-alliance/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://fuelcellsworks.com/subscribers/first-injection-of-green-hydrogen-into-the-existing-northern-german-gas-pipeline-network/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://fuelcellsworks.com/subscribers/swk-opts-for-green-hydrogen-production-in-cooperation-with-the-swk-e²-institute-of-the-niederrhein-university-of-applied-sciences/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://fuelcellsworks.com/subscribers/wuxi-city-is-fully-committed-to-hydrogen-and-fuel-cells/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://media.toyota.co.uk/2021/04/toyota-to-supply-fuel-cell-modules-for-zero-emission-train-project/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://pubs.rsc.org/en/content/articlelanding/2020/ce/d0ce01311k> a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://pubs.rsc.org/en/content/articlelanding/2021/qo/d0qo01341b> a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://revolution-green.com/socalgas-test-technology-enable-rapid-expansion-hydrogen-fueling-stations/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://ship.energy/2020/12/04/klaipedos-nafta-joins-lithuanian-hydrogen-platform/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://smallnews.in/renewables/2020/12/01/mol-joins-wind-hunter-project-for-combination-of-sails-and-fuel-cells-on-ships/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://timworld.info/two-distinct-different-liquid-states-of-water-exist-both-made-of-h2o-molecules/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://vpoglobal.com/2021/04/19/methanol-fuel-cell-system-is-prepared-for-test-installation-phase/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://wtaq.com/2020/12/15/hydrogen-plane-startup-zeroavia-gets-backing-from-amazon-shell/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://www.carandbike.com/news/chinas-capital-envisages-10-000-fuel-cell-vehicles-by-2025-2411012>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://www.connecticum.de/jobboerse/product-owner-d-engineering-it-daimler-truck-fuel-cell-gmbh-co-kg-stellenangebot-1346832.html>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://www.dealighted.com/main/page/comment/Oakley_Men_s_Sunglasses_Valve_Polarized_111_Fuel_Cell_Polarized_90_amp_More_Free_Shipping_8788987>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://www.epicos.com/article/660648/toyoda-gosei-starts-operation-high-pressure-hydrogen-tanks-fcvs-inabe-plant-japan>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://www.forbes.com/sites/mitchwallace/2020/12/18/i-got-one-of-only-77-limited-cyberpunk-2077-doritos-fuel-cells-and-its-insanely-cool/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://www.hydrogenfuelnews.com/hydrogen-fueling-infrastructure/8541312/> a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://www.hyundainews.com/en-us/releases/3217> a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://www.mamamia.com.au/h20-just-add-water-cast-now/> a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://www.marketscreener.com/quote/stock/DAIMLER-AG-436541/news/Daimler-Volvo-plan-hydrogen-fuel-cell-production-in-Europe-in-2025-33105649/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://www.myjournals.org/index.php?nr=610526> a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://www.okotokstoday.ca/national-business/canadian-pacific-to-pilot-hydrogen-powered-train-to-decarbonize-freight-transport-3195995>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://www.onenewspage.com/n/Automotive/1zlv34pk9q/Initiative-seeks-to-reduce-green-hydrogen-cost.htm>
+  a <http://purl.org/dc/terms/BibliographicResource> .
+
+<https://www.thestandard.co.zw/2020/12/20/why-green-hydrogen-is-finally-getting-its-day-in-the-sun/>
+  a <http://purl.org/dc/terms/BibliographicResource> .
