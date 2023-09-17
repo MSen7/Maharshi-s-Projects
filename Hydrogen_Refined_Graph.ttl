@@ -1,0 +1,2055 @@
+@prefix dbg: <http://schema.org/> .
+@prefix nvl: <https://pubs.rsc.org/en/content/articlelanding/2021/qo/> .
+@prefix ydt: <https://www.forbes.com/sites/mitchwallace/2020/12/18/i-got-one-of-only-77-limited-cyberpunk-2077-doritos-fuel-cells-and-its-insanely-cool/> .
+@prefix bxa: <https://fuelcellsworks.com/subscribers/first-injection-of-green-hydrogen-into-the-existing-northern-german-gas-pipeline-network/> .
+@prefix ndj: <http://www.hydrogenfuelnews.com/renewable-hydrogen-fuel-production-begin-fukushima-japan/8528841/> .
+@prefix lob: <https://www.mamamia.com.au/h20-just-add-water-cast-now/> .
+@prefix kkv: <https://fuelcellsworks.com/news/friday-fallback-story-storengy-and-gazelenergie-join-forces-coal-fired-power-stations-to-be-converted-to-hydrogen/> .
+@prefix xad: <http://www.jeccomposites.com/knowledge/international-composites-news/> .
+@prefix jbs: <http://fraunhofer.de/MarketActivities/> .
+@prefix bqn: <https://pubs.rsc.org/en/content/articlelanding/2020/ce/> .
+@prefix nkg: <https://www.onenewspage.com/n/Automotive/1zlv34pk9q/> .
+@prefix fcu: <http://www.avweb.com/podcast/> .
+@prefix wza: <https://timworld.info/two-distinct-different-liquid-states-of-water-exist-both-made-of-h2o-molecules/> .
+@prefix zui: <https://archive.org/details/> .
+@prefix hqe: <https://www.myjournals.org/> .
+@prefix sdr: <https://www.hyundainews.com/en-us/releases/> .
+@prefix qmc: <https://fuelcellsworks.com/subscribers/swk-opts-for-green-hydrogen-production-in-cooperation-with-the-swk-e²-institute-of-the-niederrhein-university-of-applied-sciences/> .
+@prefix sla: <https://www.carandbike.com/news/> .
+@prefix gzo: <https://smallnews.in/renewables/2020/12/01/mol-joins-wind-hunter-project-for-combination-of-sails-and-fuel-cells-on-ships/> .
+@prefix thp: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix gof: <https://www.marketscreener.com/quote/stock/DAIMLER-AG-436541/news/Daimler-Volvo-plan-hydrogen-fuel-cell-production-in-Europe-in-2025-33105649/> .
+@prefix alv: <https://fuelcellsworks.com/news/kist-develops-nanocatalyst-that-has-2-5-times-the-efficiency-of-extracting-hydrogen-fuel-from-ammonia/> .
+@prefix pgv: <http://hydrogentoday.info/news/> .
+@prefix nqr: <http://fraunhofer.de/data/James_Frimen_/> .
+@prefix jtl: <https://revolution-green.com/socalgas-test-technology-enable-rapid-expansion-hydrogen-fueling-stations/> .
+@prefix koq: <http://ciltuk.org.uk/News/LatestNews/TabId/235/ArtMID/6887/ArticleID/8897/> .
+@prefix xns: <https://www.okotokstoday.ca/national-business/> .
+@prefix ldp: <https://www.hydrogenfuelnews.com/hydrogen-fueling-infrastructure/8541312/> .
+@prefix ras: <http://fraunhofer.de/data/> .
+@prefix bhe: <http://purl.org/dc/terms/> .
+@prefix rgj: <http://fraunhofer.de/data/research/> .
+@prefix flh: <https://www.thestandard.co.zw/2020/12/20/why-green-hydrogen-is-finally-getting-its-day-in-the-sun/> .
+@prefix lyr: <http://www.myjournals.org/> .
+@prefix gzh: <https://www.epicos.com/article/660648/> .
+@prefix txs: <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#> .
+@prefix uhp: <https://fuelcellsworks.com/news/dr-matthias-jurytko-takes-over-the-management-of-the-fuel-cell-joint-venture-cellcentric/> .
+@prefix xki: <https://www.connecticum.de/jobboerse/> .
+@prefix oqz: <https://ship.energy/2020/12/04/klaipedos-nafta-joins-lithuanian-hydrogen-platform/> .
+@prefix fto: <http://www.onenewspage.com/n/Automotive/759n5mi4u/> .
+@prefix vuk: <https://wtaq.com/2020/12/15/hydrogen-plane-startup-zeroavia-gets-backing-from-amazon-shell/> .
+@prefix jhb: <http://www.4-traders.com/news/China-Petrochemical-Sinopec-rsquo-s-diesel-hydrogenation-technology-wins-bidding-of-Brunei-project--22414754/> .
+@prefix atj: <http://pubs.rsc.org/en/Content/ArticleLanding/2016/TA/> .
+@prefix vra: <https://www.dealighted.com/main/page/comment/> .
+@prefix ujr: <https://fuelcellsworks.com/news/mcphy-is-proud-to-be-a-member-of-the-european-clean-hydrogen-alliance/> .
+@prefix mdg: <http://www.w3.org/ns/regorg#> .
+@prefix ttq: <https://fuelcellsworks.com/subscribers/wuxi-city-is-fully-committed-to-hydrogen-and-fuel-cells/> .
+@prefix wvz: <http://energy.gov/eere/articles/> .
+@prefix bnc: <http://article.wn.com/view/2016/05/25/Hydrogen_Fuel_Cell_Bus_Hits_OC_Streets_OCTA_Orange_County_Tr/> .
+@prefix iug: <http://phoenixsun.co.za/34773/tuesday-life-hack-5-uses-for-hydrogen-peroxide/> .
+@prefix qlf: <https://media.toyota.co.uk/2021/04/toyota-to-supply-fuel-cell-modules-for-zero-emission-train-project/> .
+@prefix tvr: <http://southafrica.cleantechopen.org/2016/05/20/sharks-electric-field-sixth-sense-could-inspire-better-fuel-cells/> .
+@prefix qhj: <https://autotechinsight.ihsmarkit.com/news/5260191/> .
+@prefix xmq: <http://www.virtual-strategy.com/2016/05/25/> .
+@prefix mcl: <https://vpoglobal.com/2021/04/19/methanol-fuel-cell-system-is-prepared-for-test-installation-phase/> .
+
+ras:STOL thp:type txs:Aircraft.
+
+ras:H2O2 thp:type jbs:Manufacturer.
+
+ras:fuel_cell_business thp:type txs:Bus.
+
+ras:Renewable_hydrogen thp:type jbs:Researcher.
+
+ras:ECH2A thp:type jbs:Supplier.
+
+fcu:Podcast_Dr_Josef_Kallo_On_Fuel_Cell_Progress_226201_1_html thp:type bhe:BibliographicResource.
+
+ras:Antiseptic_Mouth_Wash thp:type jbs:Manufacturer.
+
+ras:Toyota_Motor_Corporation thp:type jbs:Supplier.
+
+ras:Cariba_Heine thp:type jbs:Supplier.
+
+ras:Daimler_Truck_Fuel_Cell_GmbH__AMPERSAND__Co_KG thp:type txs:Reconversion.
+
+ras:Fuel_Cell_Polarized thp:type jbs:inResearch.
+
+ras:hydrogen_technology thp:type jbs:Supplier.
+
+ras:decarbonising_road_transport thp:type txs:Mobile.
+
+ras:Toyoda_Gosei_Co___COMMA__Ltd thp:type jbs:Customer.
+
+ras:Korea_Institute_of_Science_and_Technology thp:type mdg:RegisteredOrganization.
+
+ras:a_fuel_cell_electric thp:type jbs:Supplier.
+
+ttq: thp:type bhe:BibliographicResource.
+
+ras:FuelCellsWorks thp:type jbs:Customer.
+
+ras:hydrogen_production thp:type txs:Product.
+
+ras:hydrogen_production thp:type jbs:inProduction.
+
+ras:new_hydrogen_vehicle thp:type jbs:inProduction.
+
+xki:product_owner_d_engineering_it_daimler_truck_fuel_cell_gmbh_co_kg_stellenangebot_1346832_html thp:type bhe:BibliographicResource.
+
+ras:hydrogen_fuel_cell thp:type jbs:Researcher.
+
+ras:Hydrogen_Cars thp:type txs:Car.
+
+ras:ORR thp:type jbs:Researcher.
+
+ras:Nafion thp:type jbs:Manufacturer.
+
+ras:proton_conducting_polymers thp:type jbs:Manufacturer.
+
+ras:Germany thp:type jbs:Manufacturer.
+
+ras:Toyoda_Gosei_Co___COMMA__Ltd thp:type jbs:Manufacturer.
+
+ras:Korea_Institute_of_Science_and_Technology thp:type jbs:Supplier.
+
+ras:Antiseptic_Mouth_Wash thp:type jbs:Supplier.
+
+ras:ZeroAvia thp:type jbs:Customer.
+
+ras:ACWA_Power thp:type jbs:Researcher.
+
+ras:FuelCellsWorks thp:type jbs:Manufacturer.
+
+ras:Blue_World_Technologies thp:type jbs:Researcher.
+
+ras:China thp:type jbs:inProduction.
+
+ras:fuel_cell thp:type jbs:inProduction.
+
+ras:zero_emission_technology thp:type txs:Product.
+
+ras:hydrogen_trains thp:type jbs:inTesting.
+
+ras:zero_emission_technology thp:type jbs:inProduction.
+
+ras:Volvo thp:type jbs:Customer.
+
+ras:Japan thp:type jbs:Manufacturer.
+
+ras:product thp:type jbs:inTesting.
+
+ras:proton_exchange_membranes thp:type jbs:inProduction.
+
+ras:Lithium_Ion_Battery_and_Fuel_Cell thp:type jbs:inTesting.
+
+ras:hydrogen_fuel_and thp:type jbs:inProduction.
+
+mcl: thp:type bhe:BibliographicResource.
+
+ras:project thp:type dbg:Project.
+
+ras:ZeroAvia thp:type jbs:Manufacturer.
+
+ras:zero_carbon_hydrogen thp:type txs:Car.
+
+ras:Lithium_Ion_Battery_and_Fuel_Cell thp:type txs:Battery.
+
+ras:Green_Hydrogen thp:type jbs:inResearch.
+
+ras:green_hydrogen thp:type jbs:inTesting.
+
+ras:FuelCellsWorks thp:type jbs:Supplier.
+
+ras:Lhyfe thp:type jbs:Researcher.
+
+ras:OCTA thp:type jbs:Researcher.
+
+ras:Green_hydrogen thp:type jbs:inTesting.
+
+ras:Fuel_Cell_Technologies thp:type txs:Product.
+
+ras:Fuel_Cell_Technologies thp:type jbs:inProduction.
+
+ras:hydrogen_fuel_cells thp:type txs:Reconversion.
+
+ras:hydrogen_fuel_cell thp:type txs:Product.
+
+ras:hydrogen_fuel_cell thp:type jbs:inProduction.
+
+ras:Ammonia_Fuel_Cells thp:type txs:AmmoniaFuelCell.
+
+ras:Beijing thp:type jbs:Researcher.
+
+ras:the__A_WITH_CIRCUMFLEX__EURO__OE__European_Clean_Hydrogen_Alliance thp:type jbs:inProduction.
+
+ras:Hydrogen_Peroxide thp:type jbs:inProduction.
+
+ras:Oakley_Men_QUOTATION_OR_APOSTROPHE_s_Sunglasses thp:type jbs:Customer.
+
+ras:Talgo thp:type jbs:Supplier.
+
+ras:clean_technology_revolution thp:type txs:Road.
+
+ras:Plug_Power_Fuel_Cells thp:type txs:Reconversion.
+
+ras:fossil_fuel thp:type txs:FossilFuel.
+
+ras:Toyoda_Gosei thp:type jbs:Researcher.
+
+ras:renewable_and_low_carbon_hydrogen thp:type txs:Car.
+
+ras:Blue_World_Technologies thp:type txs:Product.
+
+ras:Blue_World_Technologies thp:type jbs:inProduction.
+
+ras:Daimler_Truck_Fuel_Cell_GmbH__AMPERSAND__Co_KG thp:type txs:Product.
+
+ras:hydrogen_transportation thp:type jbs:inProduction.
+
+ras:Volvo thp:type jbs:Supplier.
+
+ras:SOFC4Maritime thp:type txs:SolidOxideFuelCell.
+
+ras:hydrogen thp:type jbs:inTesting.
+
+ras:2020 thp:type jbs:inProduction.
+
+ras:fuel_and thp:type jbs:inResearch.
+
+ras:methanol_fuel_cell thp:type txs:EthanolFuelCell.
+
+ras:products thp:type jbs:inResearch.
+
+ras:Geely_Hydrogen_Fuel_Cell thp:type txs:Reconversion.
+
+ras:Masamichi_Okada thp:type jbs:Supplier.
+
+ras:GLOBE_NEWSWIRE thp:type jbs:inProduction.
+
+ras:discovery thp:type txs:Intangible.
+
+ras:fuel_cells thp:type jbs:inTesting.
+
+ras:Orange_County_Transportation_Authority thp:type txs:Mobile.
+
+ras:gas_storage_and_the_development_of_renewable_gases thp:type txs:Road.
+
+ras:electric_vehicles thp:type jbs:Supplier.
+
+pgv:1551 thp:type bhe:BibliographicResource.
+
+ras:Matthias_Jurytko thp:type jbs:Researcher.
+
+ras:Deep_Sea_Shipping thp:type txs:Marine.
+
+ras:a_nano_metal_catalyst thp:type jbs:inProduction.
+
+ras:Fuel_Cell_Vehicles thp:type txs:Road.
+
+ras:IEEE_Spectrum thp:type jbs:Researcher.
+
+ras:Santa_Cruz thp:type jbs:Researcher.
+
+ras:mobility thp:type jbs:inTesting.
+
+ras:hydrogen_production thp:type jbs:Customer.
+
+ras:hydrogen_fuel_cell_system thp:type jbs:inTesting.
+
+ras:prototype thp:type jbs:inTesting.
+
+ras:prototype thp:type txs:Tangible.
+
+ras:Oakley_Men_QUOTATION_OR_APOSTROPHE_s_Sunglasses thp:type jbs:Supplier.
+
+ras:zero_emission_hydrogen_fuel_cell_bus thp:type txs:Bus.
+
+ras:Hydrogen_Infrastructure thp:type jbs:Researcher.
+
+ras:hydrogen_fuel__COMMA_ thp:type jbs:Supplier.
+
+ras:Channel_10 thp:type jbs:Researcher.
+
+ras:hydrogen_vehicle_fleet thp:type txs:Road.
+
+ras:Inabe_Plant thp:type jbs:Researcher.
+
+ras:Lithium_Ion_Battery thp:type jbs:inProduction.
+
+ras:green_hydrogen thp:type jbs:Researcher.
+
+ras:hydrogen_technology thp:type jbs:inTesting.
+
+ras:Vanguard thp:type jbs:Manufacturer.
+
+ras:Powertrain_Daimler_Trucks_division thp:type txs:Truck.
+
+ras:TME thp:type jbs:inResearch.
+
+ras:Maanshan_City thp:type jbs:Customer.
+
+ras:hydrogen_production thp:type jbs:Manufacturer.
+
+ras:Spyro_Reignited thp:type jbs:inResearch.
+
+ras:China thp:type jbs:Customer.
+
+vuk: thp:type bhe:BibliographicResource.
+
+ras:hydrogen_projects thp:type jbs:Supplier.
+
+ras:Motomachi_Plant thp:type jbs:inProduction.
+
+qlf: thp:type bhe:BibliographicResource.
+
+ras:UK thp:type jbs:Researcher.
+
+ras:Avions_Mauboussin thp:type jbs:Supplier.
+
+ras:applications thp:type jbs:Supplier.
+
+ras:Hydrogen_Evolution thp:type txs:Road.
+
+ras:Stockholm_University thp:type jbs:Researcher.
+
+ras:China thp:type jbs:Manufacturer.
+
+ras:hydrogen thp:type jbs:Researcher.
+
+ras:fuel_cell_electric_vehicles thp:type txs:Road.
+
+ras:hydrogen_trains thp:type jbs:inProduction.
+
+ras:product thp:type txs:Product.
+
+ras:product thp:type jbs:inProduction.
+
+rgj:_media_organizations thp:type jbs:Supplier.
+
+ras:Lithium_Ion_Battery_and_Fuel_Cell thp:type txs:Product.
+
+ras:air_conditioning thp:type jbs:inTesting.
+
+flh: thp:type bhe:BibliographicResource.
+
+ras:hydrogen_production thp:type jbs:Supplier.
+
+ras:road_transport thp:type txs:Mobile.
+
+ras:a_fuel_cell_electric thp:type txs:Reconversion.
+
+ras:methanol thp:type jbs:inResearch.
+
+ras:hydrogen_fuel_cell thp:type jbs:Customer.
+
+ras:the_Suiso_Frontier thp:type jbs:inResearch.
+
+ras:ORR thp:type jbs:Customer.
+
+ras:green_hydrogen thp:type jbs:inProduction.
+
+ras:Talgo_Vittal_One thp:type jbs:Researcher.
+
+ras:Hydrogen_Fuel_Cell thp:type txs:Reconversion.
+
+ras:Maanshan_City thp:type jbs:Supplier.
+
+ras:Fuel_Cell_Business thp:type txs:Reconversion.
+
+ras:Green_hydrogen thp:type jbs:inProduction.
+
+ras:carbon_free_hydrogen thp:type jbs:inResearch.
+
+ras:ACWA_Power thp:type jbs:Customer.
+
+ras:hydrogen_fuel_cell_system thp:type jbs:Researcher.
+
+ras:Blue_World_Technologies thp:type jbs:Customer.
+
+bqn:d0ce01311k thp:type bhe:BibliographicResource.
+
+ras:fossil_fuel thp:type jbs:inResearch.
+
+ras:ORR thp:type jbs:Manufacturer.
+
+ras:Ammonia thp:type jbs:inTesting.
+
+ras:Renewable_hydrogen thp:type jbs:Supplier.
+
+ras:cyano_bridged_coordination_polymers thp:type jbs:inProduction.
+
+ras:fuel_cell thp:type jbs:inResearch.
+
+ras:ACWA_Power thp:type jbs:Manufacturer.
+
+ras:Strategic_Analysis_COMMA__Inc thp:type jbs:Researcher.
+
+ras:solid_oxide_fuel_cells thp:type jbs:inTesting.
+
+ras:Blue_World_Technologies thp:type jbs:Manufacturer.
+
+ras:carbon_free_hydrogen thp:type txs:Car.
+
+ras:Daimler_Truck_Fuel_Cell_GmbH__AMPERSAND__Co_KG thp:type jbs:Manufacturer.
+
+ras:hydrogen thp:type jbs:inProduction.
+
+ras:hydrogen_fuel_and thp:type jbs:inResearch.
+
+ras:aircraft thp:type txs:Aircraft.
+
+ras:Lhyfe thp:type jbs:Customer.
+
+ras:hydrogen_train thp:type jbs:inTesting.
+
+ras:OCTA thp:type jbs:Customer.
+
+ydt: thp:type bhe:BibliographicResource.
+
+ras:fuel_cell_system thp:type jbs:inTesting.
+
+ras:fuel_cells thp:type txs:Product.
+
+ras:fuel_cells thp:type jbs:inProduction.
+
+ras:hydrogen_fuel_cell thp:type jbs:Supplier.
+
+ras:GazelEnergie_Join_Forces thp:type jbs:inResearch.
+
+ras:Hydrogen_Peroxide thp:type jbs:Supplier.
+
+ras:UAM_COMMA__automobiles_COMMA__vessels_and_trains thp:type txs:Train.
+
+ras:Beijing thp:type jbs:Customer.
+
+ras:ORR thp:type jbs:Supplier.
+
+ras:The_Korea_Institute_of_Science_and_Technology thp:type txs:Product.
+
+ras:Dedicated_Fuel_Cell_System thp:type jbs:inTesting.
+
+jhb: thp:type bhe:BibliographicResource.
+
+ras:ACWA_Power thp:type jbs:Supplier.
+
+ras:Toyoda_Gosei thp:type jbs:Customer.
+
+ras:OCTA thp:type jbs:Manufacturer.
+
+ras:Industry_News thp:type jbs:Researcher.
+
+ras:Blue_World_Technologies thp:type jbs:Supplier.
+
+ras:Southeast thp:type jbs:inProduction.
+
+ras:hydrogen_and_fuel_cell_technologies thp:type jbs:inResearch.
+
+ras:hydrogen_fuel_cell_system thp:type txs:Product.
+
+ras:prototype thp:type jbs:inProduction.
+
+ras:Volvo_Group thp:type jbs:Customer.
+
+ras:Bloom thp:type jbs:Researcher.
+
+ras:next_generation thp:type jbs:inResearch.
+
+ras:H20 thp:type jbs:inProduction.
+
+ras:hydrogen_technology thp:type txs:Product.
+
+ras:Post_Ammonia_Fuel_Cells thp:type txs:Product.
+
+ras:Project thp:type dbg:Project.
+
+ras:hydrogen_technology thp:type jbs:inProduction.
+
+ras:GLOBE_NEWSWIRE thp:type jbs:Supplier.
+
+ras:a_fuel_cell_electric thp:type jbs:inProduction.
+
+ras:hydrogen_transportation thp:type jbs:inResearch.
+
+ras:Daimler_Truck_AG thp:type jbs:Manufacturer.
+
+ras:Toyoda_Gosei thp:type jbs:Manufacturer.
+
+ras:fuel_cell_system thp:type txs:Reconversion.
+
+ras:hydrogen_fuel thp:type jbs:inProduction.
+
+qhj:mahle_opens_new_test_center_in_germany_for_fuel_cells thp:type bhe:BibliographicResource.
+
+ras:proton_exchange_membranes thp:type txs:Membrane.
+
+ras:Lhyfe thp:type jbs:Supplier.
+
+ras:Hydrogen_Fuel_Cell thp:type jbs:inProduction.
+
+ras:OCTA thp:type jbs:Supplier.
+
+ras:Fuel_Cell_Business thp:type jbs:inProduction.
+
+ras:SoCalGas thp:type jbs:Researcher.
+
+ras:Royal_Society_of_Chemistry thp:type jbs:Researcher.
+
+ras:Hydrogen_Evolution thp:type jbs:Supplier.
+
+ras:Dedicated_Fuel_Cell_System thp:type txs:Reconversion.
+
+ras:solar thp:type jbs:inResearch.
+
+ras:Zhao thp:type jbs:Researcher.
+
+ras:Activision thp:type jbs:Researcher.
+
+ras:Beijing thp:type jbs:Supplier.
+
+ras:Methanol_fuel_cell_system thp:type txs:Product.
+
+ras:Position_yourself_for_advantage thp:type txs:RegionalTruck.
+
+ras:batteries thp:type jbs:inProduction.
+
+ras:H2 thp:type jbs:inResearch.
+
+ras:solid_oxide_fuel_cells thp:type jbs:Researcher.
+
+ras:solar_energy thp:type jbs:Researcher.
+
+ras:University thp:type jbs:Researcher.
+
+ras:Town_council thp:type jbs:Supplier.
+
+ras:Toyoda_Gosei thp:type jbs:Supplier.
+
+ras:green_hydrogen thp:type jbs:Customer.
+
+ras:hydrogen_train thp:type jbs:Researcher.
+
+ras:German thp:type jbs:inProduction.
+
+ras:Toyota_Motor_Europe thp:type jbs:Researcher.
+
+ras:air_conditioning thp:type jbs:inProduction.
+
+ras:hydrogen_trains thp:type jbs:Manufacturer.
+
+ras:Green_hydrogen thp:type jbs:Customer.
+
+ras:Daimler_AG thp:type jbs:Customer.
+
+ras:GlobeNewswire_Advanced_TORONTO thp:type jbs:Manufacturer.
+
+ras:Green_Hydrogen thp:type jbs:Researcher.
+
+ras:LONDON thp:type jbs:inResearch.
+
+ras:UAM_COMMA__automobiles_COMMA__vessels_and_trains thp:type txs:Car.
+
+ras:Fuel_Cell_System thp:type jbs:inTesting.
+
+ras:hydrogen_and_fuel thp:type jbs:inTesting.
+
+ras:Green_Hydrogen thp:type txs:Conversion.
+
+ras:mining thp:type jbs:Researcher.
+
+ras:transportation_is thp:type txs:Mobile.
+
+ras:Fuel_Cell thp:type jbs:inTesting.
+
+ras:Advance_Article thp:type jbs:inTesting.
+
+ras:Near_Future_Propulsion_Extras thp:type jbs:inResearch.
+
+ras:Hydrogen thp:type jbs:inTesting.
+
+ras:The_European_Union thp:type jbs:Researcher.
+
+ras:Hydrogen_and_Fuel_Cell_Technologies thp:type txs:Reconversion.
+
+ras:UK thp:type jbs:Customer.
+
+ras:Hydrogen_fuel_cars thp:type txs:Car.
+
+ras:a_product_that_gamers_can_enjoy_as_intended thp:type jbs:inTesting.
+
+ras:green_hydrogen thp:type jbs:Manufacturer.
+
+ras:technology thp:type jbs:inResearch.
+
+ras:vans thp:type txs:RegionalTruck.
+
+ras:Green_hydrogen thp:type jbs:Manufacturer.
+
+ras:hydrogen_in thp:type jbs:Researcher.
+
+oqz: thp:type bhe:BibliographicResource.
+
+ras:Daimler_AG thp:type jbs:Manufacturer.
+
+ras:Matthias_Jurytko thp:type jbs:Supplier.
+
+ras:vehicles thp:type jbs:Customer.
+
+ras:hydrogen thp:type jbs:Customer.
+
+ras:hydrogen_fuel_cells thp:type jbs:inResearch.
+
+ras:DNI thp:type jbs:Manufacturer.
+
+ras:European thp:type jbs:inProduction.
+
+ras:Toyota_Motor_Europe thp:type txs:Manufacturing.
+
+ras:Ammonia thp:type jbs:inProduction.
+
+ras:Hydrogen_plane thp:type txs:Aircraft.
+
+ras:Hydrogen_Infrastructure thp:type jbs:Supplier.
+
+wza: thp:type bhe:BibliographicResource.
+
+ras:Channel_10 thp:type jbs:Supplier.
+
+ras:high_pressure_hydrogen_tanks thp:type jbs:inTesting.
+
+ras:solid_oxide_fuel_cells thp:type txs:Product.
+
+ras:Inabe_Plant thp:type jbs:Supplier.
+
+ras:Perovskites_crystals thp:type jbs:inProduction.
+
+ras:green_hydrogen thp:type jbs:Supplier.
+
+ras:natural_gas thp:type jbs:inResearch.
+
+ras:renewable_energy_sources thp:type jbs:Supplier.
+
+ras:hydrogen thp:type jbs:Manufacturer.
+
+ras:HyET_Hydrogen thp:type jbs:Customer.
+
+ras:Green_hydrogen thp:type jbs:Supplier.
+
+ras:hydrogen_train thp:type jbs:inProduction.
+
+ras:Orange_County_Transportation_Authority thp:type jbs:inTesting.
+
+ras:HTWO thp:type jbs:Researcher.
+
+ras:fuel_cell_system thp:type jbs:inProduction.
+
+ras:fuel_cell_system thp:type txs:Product.
+
+ras:POSTECH_University thp:type txs:Research.
+
+vra:Oakley_Men_s_Sunglasses_Valve_Polarized_111_Fuel_Cell_Polarized_90_amp_More_Free_Shipping_8788987 thp:type bhe:BibliographicResource.
+
+ras:Toyota_Motor_Corporation thp:type jbs:Customer.
+
+ras:Australia thp:type jbs:inTesting.
+
+ras:UK thp:type jbs:Supplier.
+
+ras:Kawasaki_Heavy_Industries thp:type jbs:Researcher.
+
+ras:Cariba_Heine thp:type jbs:Customer.
+
+ras:Dedicated_Fuel_Cell_System thp:type txs:Product.
+
+ras:Dedicated_Fuel_Cell_System thp:type jbs:inProduction.
+
+ras:electric_vehicles thp:type jbs:inProduction.
+
+ras:HyET_Hydrogen thp:type jbs:Manufacturer.
+
+ras:Hydrogen_Fuel_Cell_Buses thp:type txs:Product.
+
+ras:English thp:type jbs:Researcher.
+
+ras:hydrogen_technology thp:type jbs:Customer.
+
+ras:Hyundai thp:type jbs:Researcher.
+
+ras:produce thp:type jbs:inResearch.
+
+ras:CAF thp:type jbs:Researcher.
+
+ras:hydrogen thp:type jbs:Supplier.
+
+ras:hydrogen_tank thp:type jbs:inResearch.
+
+ras:The_Korea_Institute_of_Science_and_Technology thp:type mdg:RegisteredOrganization.
+
+ras:hydrogen_fuel__COMMA_ thp:type jbs:inProduction.
+
+ras:Climate_Pledge_Fund thp:type jbs:inProduction.
+
+ras:Toyota_Motor_Corporation thp:type jbs:Manufacturer.
+
+ras:proton_conducting_fuel_cells thp:type txs:Product.
+
+ras:Fuel_Cell thp:type jbs:Researcher.
+
+ras:Hydrogen thp:type jbs:Researcher.
+
+ras:Hydrogen_fuel_cells thp:type jbs:inTesting.
+
+ras:hydrogen_technology thp:type jbs:Manufacturer.
+
+ras:SOFC4Maritime thp:type txs:Marine.
+
+ras:Fuel_Cell_Technologies thp:type txs:Reconversion.
+
+ras:hydrogen_fuel_cell thp:type txs:Reconversion.
+
+ras:Tuesday thp:type jbs:inTesting.
+
+ras:Hydrogen_and_Fuel_Cell_Technologies thp:type jbs:inProduction.
+
+ras:Talgo_Vittal_One thp:type jbs:Supplier.
+
+ras:hydrogen_projects thp:type jbs:inProduction.
+
+ras:European_Clean_Hydrogen_Alliance thp:type jbs:Researcher.
+
+ras:Hydrogen__AMPERSAND__Fuel_Cells thp:type jbs:Researcher.
+
+ras:carandbike_com thp:type txs:Bike.
+
+ras:hydrogen_fuel_cell_system thp:type jbs:Supplier.
+
+ras:Beijing_Daily thp:type jbs:Researcher.
+
+ras:production thp:type jbs:inResearch.
+
+ras:CD_Projekt_Red thp:type jbs:Researcher.
+
+ras:_QUOTATION_OR_APOSTROPHE_green_QUOTATION_OR_APOSTROPHE__hydrogen thp:type jbs:inResearch.
+
+ras:Hydrogen_fuel_cells thp:type txs:Reconversion.
+
+ras:Nick_Carey thp:type jbs:Supplier.
+
+ras:hydrogen_and_fuel thp:type jbs:inProduction.
+
+ras:Fuel_Cell_System thp:type txs:Product.
+
+ras:Australia thp:type jbs:Researcher.
+
+ras:a_fuel_cell_electric thp:type jbs:inResearch.
+
+ras:Fuel_Cell thp:type txs:Product.
+
+ras:Talgo thp:type jbs:Customer.
+
+hqe:index_php_nr_610526 thp:type bhe:BibliographicResource.
+
+ras:a_product_that_gamers_can_enjoy_as_intended thp:type txs:Product.
+
+ras:SoCalGas thp:type jbs:Customer.
+
+ras:fuel_cells_are thp:type jbs:inTesting.
+
+ras:hydrogen_fuel thp:type jbs:inResearch.
+
+ras:SOFC4Maritime thp:type jbs:Researcher.
+
+ras:mouth_wash thp:type jbs:inResearch.
+
+ras:Hydrogen_Fuel_Cell thp:type jbs:inResearch.
+
+koq:Government_to_roll_out_promotion_of_hydrogen_efficient_fleets_aspx thp:type bhe:BibliographicResource.
+
+ras:Fuel_Cell_Business thp:type jbs:inResearch.
+
+ras:STT thp:type jbs:Researcher.
+
+ras:H2O2 thp:type jbs:inResearch.
+
+ras:solid_oxide_fuel_cells thp:type jbs:Customer.
+
+ras:European_Clean_Hydrogen_Alliance thp:type jbs:inProduction.
+
+ras:Talgo thp:type jbs:Manufacturer.
+
+ras:Industry_News thp:type jbs:Supplier.
+
+nkg:Initiative_seeks_to_reduce_green_hydrogen_cost_htm thp:type bhe:BibliographicResource.
+
+ras:Toyota_Motor_Europe thp:type jbs:Customer.
+
+ras:SoCalGas thp:type jbs:Manufacturer.
+
+ras:ZEV thp:type txs:Road.
+
+ras:Renewable_hydrogen thp:type jbs:inProduction.
+
+ras:Stockholm_University thp:type txs:Research.
+
+ras:Bloom thp:type jbs:Supplier.
+
+ras:Powertrain_Daimler_Trucks_division thp:type txs:Train.
+
+lyr:index_php_nr_393867 thp:type bhe:BibliographicResource.
+
+ras:Volvo thp:type jbs:Manufacturer.
+
+ras:ammonia thp:type jbs:inTesting.
+
+ras:The_European_Union thp:type jbs:Customer.
+
+ras:Orange_County_Transportation_Authority thp:type jbs:inProduction.
+
+ras:contribute_to_the_development_of_zero_carbon_hydrogen thp:type txs:Road.
+
+ras:Hyundai_Motor_Group thp:type txs:Manufacturing.
+
+ras:Toyota_Motor_Europe thp:type jbs:Manufacturer.
+
+ras:Video thp:type jbs:inTesting.
+
+ras:gas_storage_and_the_development_of_renewable_gases thp:type jbs:inProduction.
+
+ras:hydrogen_powered_planes thp:type txs:Aircraft.
+
+ras:Dezember_2020 thp:type jbs:inProduction.
+
+ras:fuel_cells_are thp:type txs:Reconversion.
+
+ras:hydrogen_in thp:type jbs:Customer.
+
+ras:zero_emissions_transportation thp:type txs:Mobile.
+
+iug: thp:type bhe:BibliographicResource.
+
+ras:FuelCellsWorks thp:type jbs:inResearch.
+
+ras:SoCalGas thp:type jbs:Supplier.
+
+ras:Fuel_Cells thp:type jbs:inTesting.
+
+ras:The_European_Union thp:type jbs:Manufacturer.
+
+ras:Zhao thp:type jbs:Supplier.
+
+ras:Activision thp:type jbs:Supplier.
+
+ras:Lithium_Ion_Battery_and_Fuel_Cell thp:type txs:Reconversion.
+
+ras:H2O_Molecules thp:type jbs:inResearch.
+
+ras:solid_oxide_fuel_cells thp:type jbs:Supplier.
+
+ras:hydrogen_cars thp:type jbs:Researcher.
+
+ras:University thp:type jbs:Supplier.
+
+ras:hydrogen_in thp:type jbs:Manufacturer.
+
+ras:Breakthrough_Energy_Ventures thp:type jbs:Customer.
+
+ras:European thp:type jbs:inResearch.
+
+ras:ZeroAvia thp:type jbs:inResearch.
+
+ras:hydrogen_train thp:type jbs:Supplier.
+
+ras:Toyota_Motor_Europe thp:type jbs:Supplier.
+
+sdr:3217 thp:type bhe:BibliographicResource.
+
+ras:Hydrogen_fuel_cells thp:type txs:Product.
+
+ras:Hydrogen_fuel_cells thp:type jbs:inProduction.
+
+ras:ketoximes thp:type jbs:inProduction.
+
+gzh:toyoda_gosei_starts_operation_high_pressure_hydrogen_tanks_fcvs_inabe_plant_japan thp:type bhe:BibliographicResource.
+
+ras:nano_metal_catalyst thp:type jbs:inTesting.
+
+ras:oxygen_reduction_reaction thp:type jbs:inProduction.
+
+ras:Green_Hydrogen thp:type jbs:Supplier.
+
+ras:today thp:type jbs:inProduction.
+
+ras:Tuesday thp:type jbs:inProduction.
+
+ras:The_European_Union thp:type jbs:Supplier.
+
+ras:Kawasaki_Heavy_Industries thp:type jbs:Customer.
+
+gzo: thp:type bhe:BibliographicResource.
+
+ras:The_Clean_Hydrogen_Alliance thp:type jbs:Researcher.
+
+ras:Fuel_cell_power_pack thp:type txs:Product.
+
+ras:hydrogen_projects thp:type jbs:Manufacturer.
+
+ras:Energy_Department thp:type jbs:Researcher.
+
+ras:AUVSI thp:type jbs:Researcher.
+
+ras:Hyundai thp:type jbs:Customer.
+
+ras:hydrogen_in thp:type jbs:Supplier.
+
+ras:truck thp:type txs:Truck.
+
+ras:application thp:type jbs:Supplier.
+
+ras:renewable_energy thp:type jbs:inTesting.
+
+ras:fuel_cell_electric_vehicles thp:type jbs:inProduction.
+
+ras:cellcentric thp:type jbs:Researcher.
+
+ras:Sunglasses thp:type jbs:inProduction.
+
+ras:Doritos thp:type jbs:inTesting.
+
+ras:NJC thp:type jbs:Researcher.
+
+ras:Hyundai thp:type jbs:Manufacturer.
+
+ras:hydrogen_fuel__COMMA_ thp:type jbs:inResearch.
+
+ras:Mads_Friis_Jensen thp:type jbs:inTesting.
+
+ras:fuel_cells thp:type txs:Reconversion.
+
+ras:Hydrogen_NEXO_Vehicle_POSCO thp:type txs:Road.
+
+ras:LONDON thp:type jbs:Researcher.
+
+ras:CrystEngComm thp:type jbs:Researcher.
+
+ras:HTWO thp:type jbs:Supplier.
+
+ras:European_Clean_Hydrogen_Alliance thp:type jbs:Customer.
+
+ras:Fuel_Cells thp:type jbs:Researcher.
+
+ras:fuel_cells_are thp:type txs:Product.
+
+ras:fuel_cells_are thp:type jbs:inProduction.
+
+ras:Ref__XX thp:type jbs:inResearch.
+
+ras:catalyst thp:type jbs:inTesting.
+
+ras:Hydrogen_and_Fuel_Cell_Technologies thp:type jbs:inResearch.
+
+ras:hydrogen_fuel_cell_system thp:type txs:Reconversion.
+
+ras:ALICE thp:type jbs:Manufacturer.
+
+ras:Kawasaki_Heavy_Industries thp:type jbs:Supplier.
+
+ras:Toyota thp:type jbs:Researcher.
+
+ras:hydrogen_projects thp:type jbs:inResearch.
+
+ras:CD_Projekt_Red thp:type jbs:Customer.
+
+ras:decarbonising_road_transport thp:type txs:Car.
+
+ras:English thp:type jbs:Supplier.
+
+ras:hydrogen_bond_donor_scaffolds thp:type jbs:inProduction.
+
+ras:Lithium_Ion_Battery_and_Fuel_Cell thp:type jbs:inProduction.
+
+lob: thp:type bhe:BibliographicResource.
+
+ras:Hyundai thp:type jbs:Supplier.
+
+ras:Post_Ammonia_Fuel_Cells thp:type txs:Reconversion.
+
+ras:Mn_Ru thp:type jbs:inProduction.
+
+ras:Renewable_hydrogen thp:type jbs:Manufacturer.
+
+ras:Ammonia_Fuel_Cells thp:type txs:Product.
+
+ras:University thp:type txs:Research.
+
+ras:Advance_Article thp:type jbs:Supplier.
+
+ras:Fuel_Cell_Polarized thp:type jbs:inTesting.
+
+ras:Inabe_Plant thp:type jbs:inProduction.
+
+ras:Australia thp:type jbs:Customer.
+
+ras:Hydrogen thp:type jbs:Supplier.
+
+ras:Stellantis thp:type jbs:Researcher.
+
+ras:hydrogen_production thp:type jbs:inResearch.
+
+ras:ammonia thp:type jbs:inProduction.
+
+ras:new_hydrogen_vehicle thp:type jbs:inResearch.
+
+ras:the_plan_that_the_commission_recently_approved thp:type jbs:inProduction.
+
+ras:Alfa_Laval thp:type jbs:Researcher.
+
+ras:to_replace_heavy_duty_trucks_powered_by_diesel_fuel thp:type txs:Truck.
+
+ras:ALICE thp:type jbs:Supplier.
+
+ras:Video thp:type jbs:inProduction.
+
+ras:methanol_fuel_cell thp:type txs:Product.
+
+ras:SOFC4Maritime thp:type jbs:Customer.
+
+ras:Many_provinces_and_cities thp:type jbs:Researcher.
+
+ras:Methanol_fuel_cell_system thp:type txs:Reconversion.
+
+ras:STT thp:type jbs:Customer.
+
+tvr: thp:type bhe:BibliographicResource.
+
+ras:Volvo_AB thp:type jbs:Researcher.
+
+ras:European_Clean_Hydrogen_Alliance thp:type jbs:Supplier.
+
+ras:Hydrogen__AMPERSAND__Fuel_Cells thp:type jbs:Supplier.
+
+ras:Fuel_Cells thp:type txs:Product.
+
+ras:Fuel_Cells thp:type jbs:inProduction.
+
+ras:Beijing_Daily thp:type jbs:Supplier.
+
+ras:CEC thp:type jbs:Researcher.
+
+ras:multi_use_passenger_vehicles thp:type txs:Car.
+
+ras:Hydrogen_fuel_cells thp:type jbs:Customer.
+
+ras:zero_emission_technology thp:type jbs:inResearch.
+
+ras:Mads_Friis_Jensen thp:type jbs:Researcher.
+
+ras:CD_Projekt_Red thp:type jbs:Supplier.
+
+ras:STT thp:type jbs:Manufacturer.
+
+ras:Fuel_Cell_Polarized thp:type txs:Reconversion.
+
+ras:Renewable_hydrogen thp:type jbs:inResearch.
+
+ras:testing_and_vaccination_strategy thp:type jbs:inProduction.
+
+ras:Fortescue_Metals_Group thp:type jbs:Researcher.
+
+ras:Hydrogen_fuel_cells thp:type jbs:Manufacturer.
+
+ras:Storengy thp:type jbs:Researcher.
+
+ras:benchmark_solutions thp:type jbs:inTesting.
+
+ras:catalyst thp:type jbs:Researcher.
+
+qmc: thp:type bhe:BibliographicResource.
+
+ras:McPhy thp:type jbs:Customer.
+
+ras:Green_Hydrogen thp:type jbs:inTesting.
+
+ras:Thiebault_Paquet thp:type jbs:Supplier.
+
+ras:green thp:type jbs:inProduction.
+
+ras:Australia thp:type jbs:Supplier.
+
+sla:chinas_capital_envisages_10_000_fuel_cell_vehicles_by_2025_2411012 thp:type bhe:BibliographicResource.
+
+ras:renewable_and_low_carbon_hydrogen thp:type jbs:inTesting.
+
+ras:a_new_technology thp:type txs:Product.
+
+ras:Fuel_Cell_Technologies thp:type jbs:inResearch.
+
+ras:News_Engineered_Products thp:type jbs:Researcher.
+
+ras:Lhyfe thp:type jbs:Manufacturer.
+
+ras:hydrogen_fuel_cell thp:type jbs:inResearch.
+
+ras:Dezember_2020 thp:type jbs:inResearch.
+
+ras:SOFC4Maritime thp:type jbs:Supplier.
+
+ras:mobility thp:type jbs:inProduction.
+
+ras:the__A_WITH_CIRCUMFLEX__EURO__OE__European_Clean_Hydrogen_Alliance thp:type jbs:inResearch.
+
+ras:Hydrogen_Peroxide thp:type jbs:inResearch.
+
+ras:hydrogen_fuel_cell_system thp:type jbs:inProduction.
+
+ras:Amazon thp:type jbs:Researcher.
+
+ras:renewable_energy thp:type jbs:inProduction.
+
+ras:Beijing thp:type jbs:Manufacturer.
+
+ras:Mitsui_O_S_K__Lines thp:type jbs:Researcher.
+
+ras:solid_oxide_fuel_cells thp:type txs:Reconversion.
+
+xmq:dni_metals_inc_appoints_lithium_ion_battery_and_fuel_cell_experts_board_directors thp:type bhe:BibliographicResource.
+
+ras:railway_lines thp:type txs:Train.
+
+ras:Blue_World_Technologies thp:type jbs:inResearch.
+
+ras:small_aircraft thp:type txs:Aircraft.
+
+ras:the_production thp:type jbs:Customer.
+
+ras:ketoximes thp:type jbs:inResearch.
+
+ras:Fuel_cell_power_pack thp:type jbs:Supplier.
+
+ras:fuel_and thp:type jbs:inTesting.
+
+ras:Heavy_Duty_Vehicles_Hydrogen thp:type txs:Road.
+
+ras:products thp:type jbs:inTesting.
+
+nqr:_Friday thp:type jbs:Researcher.
+
+ras:Wind_Hunter_Project thp:type jbs:inTesting.
+
+ras:a_controlling_agent thp:type jbs:Supplier.
+
+ras:Hydrogen_Fuel_Cell_Buses thp:type txs:Reconversion.
+
+ras:AUVSI thp:type jbs:Customer.
+
+ras:Oakley_Men thp:type jbs:Researcher.
+
+ras:Switch_to_Hydrogen_Buses thp:type txs:Bus.
+
+ras:Flake thp:type jbs:inProduction.
+
+ras:Hydrogen_Infrastructure thp:type jbs:Customer.
+
+ras:Channel_10 thp:type jbs:Customer.
+
+ras:Embracing_Hydrogen_and_Fuel_Cell_Technologies_Energy_Department thp:type txs:Product.
+
+ras:Inabe_Plant thp:type jbs:Customer.
+
+ras:the_production thp:type jbs:Manufacturer.
+
+ras:hydrogen_trains thp:type txs:Train.
+
+ras:Beiqi_Foton_Motor thp:type jbs:Researcher.
+
+ras:Climate_Action_Champions thp:type jbs:inProduction.
+
+ras:proton_conducting_fuel_cells thp:type txs:Reconversion.
+
+ras:clean_energy thp:type jbs:inProduction.
+
+ras:IEEE_Spectrum thp:type jbs:Manufacturer.
+
+ras:hydrogen_fueling_stations thp:type jbs:Supplier.
+
+ras:AUVSI thp:type jbs:Manufacturer.
+
+jtl: thp:type bhe:BibliographicResource.
+
+ras:Wind_Hunter_Project thp:type dbg:Project.
+
+ras:Hydrogen_Infrastructure thp:type jbs:Manufacturer.
+
+ras:Sunglasses thp:type jbs:inResearch.
+
+ras:polymer thp:type jbs:inProduction.
+
+ras:Channel_10 thp:type jbs:Manufacturer.
+
+ras:Fuel_Cell_Polarized thp:type jbs:inProduction.
+
+ras:Fuel_Cell_Polarized thp:type txs:Product.
+
+ras:Inabe_Plant thp:type jbs:Manufacturer.
+
+ras:hydrogen_transportation thp:type txs:Transport.
+
+ras:TME thp:type jbs:inTesting.
+
+kkv: thp:type bhe:BibliographicResource.
+
+ras:the_production thp:type jbs:Supplier.
+
+ras:truck thp:type jbs:inProduction.
+
+ras:Toyoda_Gosei_Co___COMMA__Ltd thp:type jbs:Researcher.
+
+ras:fuel_cell_modules thp:type txs:Product.
+
+ras:The_Clean_Hydrogen_Alliance thp:type jbs:Supplier.
+
+ras:Energy_Department thp:type jbs:Supplier.
+
+ras:UK thp:type jbs:Manufacturer.
+
+ras:AUVSI thp:type jbs:Supplier.
+
+zui:NearFuturePropulsionExtras_0_5_3 thp:type bhe:BibliographicResource.
+
+ras:Featured_Company_Featured_Company_DNI_Metals_Inc thp:type jbs:Researcher.
+
+nvl:d0qo01341b thp:type bhe:BibliographicResource.
+
+ras:hydrogen_trains thp:type jbs:inResearch.
+
+ras:solid_oxide_fuel_cells thp:type jbs:inProduction.
+
+ras:product thp:type jbs:inResearch.
+
+ras:hydrogen_bond_donor_scaffolds thp:type jbs:inResearch.
+
+ras:Lithium_Ion_Battery_and_Fuel_Cell thp:type jbs:inResearch.
+
+ras:Spanish_utility_Iberdrola thp:type jbs:Supplier.
+
+ras:ZeroAvia thp:type jbs:Researcher.
+
+ras:Fuel_Cell_System thp:type txs:Reconversion.
+
+ras:Stellantis thp:type jbs:Customer.
+
+ras:The_Korea_Institute_of_Science_and_Technology thp:type jbs:Customer.
+
+ras:Mn_Ru thp:type jbs:inResearch.
+
+ras:Compression thp:type jbs:inTesting.
+
+ras:Fuel_Cell thp:type txs:Reconversion.
+
+ras:MnCNRu thp:type jbs:Supplier.
+
+ras:NJC thp:type jbs:Supplier.
+
+ras:Talgo_Vittal_One thp:type jbs:Customer.
+
+ras:Twitter thp:type jbs:inTesting.
+
+ras:Wind_Hunter_Project thp:type jbs:Researcher.
+
+ras:methanol thp:type jbs:inTesting.
+
+ras:LONDON thp:type jbs:Supplier.
+
+ras:hydrogen_fuel_cell_system thp:type jbs:Customer.
+
+ras:zero_carbon_hydrogen_solutions thp:type txs:Car.
+
+ras:Green_Hydrogen thp:type jbs:inProduction.
+
+ras:Lithium_Ion_Battery_and_Fuel_Cell thp:type txs:LithiumBattery.
+
+ras:fuel_cell_vehicles thp:type txs:Road.
+
+ras:green_hydrogen thp:type jbs:inResearch.
+
+ras:the_Suiso_Frontier thp:type jbs:inTesting.
+
+ras:CrystEngComm thp:type jbs:Supplier.
+
+ndj: thp:type bhe:BibliographicResource.
+
+uhp: thp:type bhe:BibliographicResource.
+
+ras:renewable_and_low_carbon_hydrogen thp:type jbs:inProduction.
+
+ras:Fuel_Cells thp:type jbs:Supplier.
+
+ras:Green_hydrogen thp:type jbs:inResearch.
+
+ras:Hydrogen_Fuel_Cell_Buses thp:type jbs:inProduction.
+
+ras:Stellantis thp:type jbs:Manufacturer.
+
+ras:Talgo_Vittal_One thp:type jbs:Manufacturer.
+
+ras:Toyota thp:type jbs:Supplier.
+
+ras:hydrogen_fuel_cell_system thp:type jbs:Manufacturer.
+
+ras:Mads_Friis_Jensen thp:type jbs:Customer.
+
+ras:planned thp:type jbs:Researcher.
+
+ras:renewable_energy thp:type jbs:Manufacturer.
+
+ras:fossil_fuel thp:type jbs:inTesting.
+
+ras:fuel_cell thp:type jbs:inTesting.
+
+ras:TME thp:type jbs:Researcher.
+
+ras:Fortescue_Metals_Group thp:type jbs:Customer.
+
+ras:water_when_it_burns thp:type jbs:inProduction.
+
+ras:hydrogen thp:type jbs:inResearch.
+
+ras:MAHLE thp:type jbs:Supplier.
+
+ras:hydrogen_technology thp:type txs:HydrogenProduct.
+
+ras:hydrogen_fuel_and thp:type jbs:inTesting.
+
+wvz:energy_department_announces_climate_action_champion_city_san_francisco_embracing thp:type bhe:BibliographicResource.
+
+ras:Stellantis thp:type jbs:Supplier.
+
+ras:fuel_cells thp:type jbs:inResearch.
+
+ras:products thp:type jbs:inProduction.
+
+ras:products thp:type txs:Product.
+
+ras:Alfa_Laval thp:type jbs:Supplier.
+
+ras:HTWO thp:type jbs:inProduction.
+
+ras:Methanol_fuel_cell_system thp:type txs:MethanolFuelCell.
+
+ras:vehicles_and_portable_devices thp:type txs:Road.
+
+ras:Industry_News thp:type jbs:Customer.
+
+ras:renewable_energy thp:type jbs:Supplier.
+
+ras:Fortescue_Metals_Group thp:type jbs:Manufacturer.
+
+ras:Amazon thp:type jbs:Customer.
+
+ras:Volvo_AB thp:type jbs:Supplier.
+
+ras:Bloom thp:type jbs:Customer.
+
+ras:aircraft thp:type jbs:Researcher.
+
+ras:CEC thp:type jbs:Supplier.
+
+ras:mobility thp:type jbs:inResearch.
+
+ras:hydrogen_fuel_cell_system thp:type jbs:inResearch.
+
+ras:hydrogen_and_fuel_cell_technologies thp:type jbs:inTesting.
+
+ras:Twitter thp:type jbs:Researcher.
+
+ras:reproduction thp:type txs:Product.
+
+ras:next_generation thp:type jbs:inTesting.
+
+ras:Vanguard thp:type jbs:Researcher.
+
+ras:Amazon thp:type jbs:Manufacturer.
+
+ras:Fuel_Cell_System thp:type jbs:inProduction.
+
+ras:hydrogen_technology thp:type jbs:inResearch.
+
+ras:Bloom thp:type jbs:Manufacturer.
+
+ras:Advance_Article thp:type jbs:inProduction.
+
+ras:Fuel_Cell thp:type jbs:inProduction.
+
+ras:High_Pressure_Hydrogen_Tanks thp:type jbs:Researcher.
+
+ras:European_Union thp:type jbs:Manufacturer.
+
+ras:Hydrogen thp:type jbs:inProduction.
+
+ras:a_product_that_gamers_can_enjoy_as_intended thp:type jbs:inProduction.
+
+ras:Fortescue_Metals_Group thp:type jbs:Supplier.
+
+ldp: thp:type bhe:BibliographicResource.
+
+ras:Storengy thp:type jbs:Supplier.
+
+ras:TME thp:type jbs:inProduction.
+
+ras:Fuel_cell_power_pack thp:type txs:Reconversion.
+
+ras:Hyundai_Motor_Group thp:type jbs:Researcher.
+
+ras:Zhao thp:type jbs:Customer.
+
+ras:Activision thp:type jbs:Customer.
+
+ras:Spyro_Reignited thp:type jbs:inProduction.
+
+ras:Heavy_Duty_Vehicles_Hydrogen thp:type txs:Truck.
+
+ras:University thp:type jbs:Customer.
+
+ras:News_Engineered_Products thp:type jbs:Supplier.
+
+ras:fuel_cell_joint_venture thp:type dbg:Project.
+
+ras:Beiqi_Foton_Motor thp:type jbs:Customer.
+
+ras:solar thp:type jbs:inTesting.
+
+ras:applications thp:type txs:Application.
+
+ras:China thp:type jbs:Researcher.
+
+ras:Amazon thp:type jbs:Supplier.
+
+ras:journal_articles_COMMA__books_or_book_chapters thp:type jbs:inProduction.
+
+ras:Zhao thp:type jbs:Manufacturer.
+
+ras:high_pressure_hydrogen_tanks thp:type jbs:inProduction.
+
+ras:Activision thp:type jbs:Manufacturer.
+
+ras:H2 thp:type jbs:inTesting.
+
+ras:highly_compressed_hydrogen thp:type jbs:inProduction.
+
+ras:Mitsui_O_S_K__Lines thp:type jbs:Supplier.
+
+ras:Green_Hydrogen thp:type jbs:Customer.
+
+ras:European_Union thp:type jbs:Supplier.
+
+ras:liquefied_hydrogen_carrier thp:type txs:Car.
+
+ras:mining thp:type jbs:Customer.
+
+ras:solid_oxide_fuel_cells thp:type jbs:Manufacturer.
+
+ras:zero_emission_electric_cars thp:type txs:Car.
+
+ras:Archive_org thp:type jbs:Researcher.
+
+ras:Reuters thp:type jbs:Researcher.
+
+ras:University thp:type jbs:Manufacturer.
+
+alv: thp:type bhe:BibliographicResource.
+
+ras:hydrogen_train thp:type txs:Train.
+
+ras:Beiqi_Foton_Motor thp:type jbs:Manufacturer.
+
+ras:Twitter thp:type jbs:inProduction.
+
+ras:methanol thp:type jbs:inProduction.
+
+ras:Nafion thp:type jbs:Customer.
+
+ras:the_Suiso_Frontier thp:type jbs:inProduction.
+
+ras:Australia thp:type jbs:inProduction.
+
+ras:Oakley_Men thp:type jbs:Manufacturer.
+
+ras:technology thp:type jbs:inTesting.
+
+nqr:_Friday thp:type jbs:Supplier.
+
+ras:discovery thp:type jbs:Supplier.
+
+ras:DOI thp:type jbs:Researcher.
+
+ras:Oakley_Men thp:type jbs:Supplier.
+
+ras:carbon_free_hydrogen thp:type jbs:inProduction.
+
+ras:Hyundai_Motor_Group thp:type jbs:inProduction.
+
+ras:Brooklyn_College_of_the_City_University_of_New_York thp:type txs:Research.
+
+ras:hydrogen_fuel_cells thp:type jbs:inTesting.
+
+ras:Ammonia_Fuel_Cells thp:type txs:Reconversion.
+
+ras:zero_emission_train thp:type txs:Train.
+
+ras:Beiqi_Foton_Motor thp:type jbs:Supplier.
+
+ras:Ammonia thp:type jbs:inResearch.
+
+ras:fossil_fuel thp:type jbs:inProduction.
+
+ras:local_transportation thp:type txs:Mobile.
+
+ras:HTWO thp:type jbs:Customer.
+
+ras:fuel_cell thp:type txs:Product.
+
+ras:Daimler_Truck_Fuel_Cell_GmbH__AMPERSAND__Co_KG thp:type jbs:Researcher.
+
+ras:Wind_Hunter_Project thp:type jbs:Customer.
+
+ras:solid_oxide_fuel_cells thp:type jbs:inResearch.
+
+ras:Strategic_Analysis_COMMA__Inc_ thp:type jbs:Researcher.
+
+ras:methanol_fuel_cell thp:type txs:Reconversion.
+
+ras:natural_gas thp:type jbs:inTesting.
+
+ras:multi_use_passenger_vehicles thp:type txs:Road.
+
+ras:hydrogen_train thp:type jbs:inResearch.
+
+ras:Reuters thp:type jbs:inProduction.
+
+ras:Featured_Company_Featured_Company_DNI_Metals_Inc thp:type mdg:RegisteredOrganization.
+
+ras:fuel_cell_system thp:type jbs:inResearch.
+
+ras:Fuel_Cells thp:type txs:Reconversion.
+
+ras:HTWO thp:type jbs:Manufacturer.
+
+ras:Nafion thp:type jbs:Supplier.
+
+ras:GazelEnergie_Join_Forces thp:type jbs:inProduction.
+
+ras:Toyoda_Gosei_Co___COMMA__Ltd thp:type jbs:Supplier.
+
+ras:H2 thp:type jbs:Researcher.
+
+ras:Dedicated_Fuel_Cell_System thp:type jbs:inResearch.
+
+ras:Fuel_Cell thp:type jbs:Customer.
+
+ras:Kawasaki_Heavy_Industries thp:type jbs:Manufacturer.
+
+ras:governments_and_businesses thp:type jbs:Supplier.
+
+ras:Hydrogen thp:type jbs:Customer.
+
+ras:hydrogen_and_fuel_cell_technologies thp:type txs:Product.
+
+ras:hydrogen_and_fuel_cell_technologies thp:type jbs:inProduction.
+
+ras:Japan thp:type jbs:Supplier.
+
+ras:TME thp:type jbs:Customer.
+
+ras:produce thp:type jbs:inTesting.
+
+ras:Climate_Pledge_Fund thp:type jbs:inResearch.
+
+ras:hydrogen_tank thp:type jbs:inTesting.
+
+ras:next_generation thp:type jbs:inProduction.
+
+ras:ZeroAvia thp:type jbs:Supplier.
+
+ras:San_Francisco thp:type jbs:Researcher.
+
+ras:hydrogen_production thp:type txs:HydrogenProduct.
+
+ras:Daimler_Truck_AG thp:type jbs:Researcher.
+
+ras:technology thp:type jbs:Researcher.
+
+ras:Fuel_Cell thp:type jbs:Manufacturer.
+
+ras:zero_emission_commercial_aircraft thp:type txs:Aircraft.
+
+ras:Hydrogen thp:type jbs:Manufacturer.
+
+ras:Volvo_Group thp:type jbs:Researcher.
+
+ras:hydrogen_fuel_cells thp:type jbs:Researcher.
+
+ras:aircraft thp:type jbs:Customer.
+
+ras:Daimler_Truck_Fuel_Cell thp:type jbs:Researcher.
+
+ras:carandbike_com thp:type txs:Car.
+
+ras:solar thp:type jbs:inProduction.
+
+ras:Cellcentric thp:type jbs:inResearch.
+
+ras:Latest_Poll thp:type jbs:inProduction.
+
+ras:production thp:type jbs:inTesting.
+
+ras:Fukushima thp:type jbs:Supplier.
+
+ras:H2 thp:type jbs:inProduction.
+
+ras:Vanguard thp:type jbs:Customer.
+
+ras:a__A_WITH_CIRCUMFLEX__BRITISH_POUND_2_million_government_fund thp:type jbs:inProduction.
+
+ras:_QUOTATION_OR_APOSTROPHE_green_QUOTATION_OR_APOSTROPHE__hydrogen thp:type jbs:inTesting.
+
+ras:University_of_Mannheim thp:type txs:Research.
+
+ras:cellcentric thp:type jbs:inProduction.
+
+ras:aircraft thp:type jbs:Manufacturer.
+
+ras:Hyundai thp:type jbs:inResearch.
+
+bxa: thp:type bhe:BibliographicResource.
+
+ras:TME thp:type jbs:Supplier.
+
+ras:GlobeNewswire_Advanced_TORONTO thp:type jbs:Researcher.
+
+ras:rearview_mirror_car thp:type txs:Car.
+
+ras:methanol_fuel_cell thp:type jbs:inProduction.
+
+ras:Hyundai_Motor_Group thp:type jbs:Customer.
+
+ras:hydrogen_and_fuel thp:type jbs:inResearch.
+
+ras:fuel_cell_vehicles thp:type jbs:inTesting.
+
+ras:Fuel_Cell_System thp:type jbs:inResearch.
+
+ras:hydrogen_transportation thp:type txs:Mobile.
+
+ras:LONDON thp:type jbs:inProduction.
+
+ras:Fuel_Cell thp:type jbs:inResearch.
+
+ras:Hydrogen thp:type jbs:inResearch.
+
+ras:a_product_that_gamers_can_enjoy_as_intended thp:type jbs:inResearch.
+
+ras:green_hydrogen thp:type txs:Conversion.
+
+ras:technology thp:type txs:Product.
+
+ras:technology thp:type jbs:inProduction.
+
+ras:Australia thp:type jbs:Manufacturer.
+
+ras:Phenanthrene_Skeletons thp:type jbs:inProduction.
+
+ras:Embracing_Hydrogen_and_Fuel_Cell_Technologies_Energy_Department thp:type txs:Reconversion.
+
+ras:Green_hydrogen thp:type txs:Conversion.
+
+ras:High_Pressure_Hydrogen_Tanks thp:type jbs:Manufacturer.
+
+ras:hydrogen_fuel thp:type jbs:inTesting.
+
+ras:Daimler_AG thp:type jbs:Researcher.
+
+ras:produce thp:type jbs:Researcher.
+
+ras:venture thp:type dbg:Project.
+
+ras:mouth_wash thp:type jbs:inTesting.
+
+ras:Hyundai_Motor_Group thp:type jbs:Manufacturer.
+
+ras:Hydrogen_Fuel_Cell thp:type jbs:inTesting.
+
+ras:Hydrogen_NEXO_Vehicle_POSCO thp:type jbs:Customer.
+
+ras:Petrochemical_Corporation thp:type jbs:Supplier.
+
+ras:Post_Ammonia_Fuel_Cells thp:type txs:AmmoniaFuelCell.
+
+ras:H2O2 thp:type jbs:inTesting.
+
+ras:SOFC4Maritime thp:type jbs:Manufacturer.
+
+ras:Toyota thp:type jbs:inProduction.
+
+ras:hydrogen_fuel_cells thp:type jbs:inProduction.
+
+ras:hydrogen_fuel_cells thp:type txs:Product.
+
+ras:a_six_seater_propeller_plane_powered_by_hydrogen thp:type txs:Aircraft.
+
+ras:transportation_in thp:type txs:Mobile.
+
+ras:Reuters thp:type jbs:Customer.
+
+ras:hydrogen_carrier thp:type txs:Car.
+
+ras:methanol thp:type jbs:Supplier.
+
+ras:high_pressure_hydrogen_tanks thp:type jbs:inResearch.
+
+ras:contribute_to_the_development_of_zero_carbon_hydrogen thp:type txs:Car.
+
+ras:vehicles thp:type jbs:Researcher.
+
+ras:Vanguard thp:type jbs:Supplier.
+
+ras:Plug_Power_Fuel_Cells thp:type txs:Product.
+
+ras:natural_gas thp:type jbs:inProduction.
+
+ras:High_Pressure_Hydrogen_Tanks thp:type jbs:Supplier.
+
+ras:batteries thp:type txs:Battery.
+
+ras:fuel_cell_vehicles thp:type txs:Reconversion.
+
+ras:Orange_County_Transportation_Authority thp:type jbs:inResearch.
+
+ras:a_new_technology thp:type jbs:inProduction.
+
+ras:fuel_cell_modules thp:type txs:Reconversion.
+
+ras:Reuters thp:type jbs:Manufacturer.
+
+ras:Hyundai_Motor_Group thp:type jbs:Supplier.
+
+ras:DOI thp:type jbs:Customer.
+
+bnc: thp:type bhe:BibliographicResource.
+
+ras:Australia thp:type jbs:inResearch.
+
+ras:Geely_Hydrogen_Fuel_Cell thp:type txs:Product.
+
+ras:HyET_Hydrogen thp:type jbs:Researcher.
+
+ras:Alliance thp:type jbs:Researcher.
+
+ras:Methanol_fuel_cell_system thp:type txs:EthanolFuelCell.
+
+ras:China thp:type jbs:Supplier.
+
+ras:produce thp:type jbs:inProduction.
+
+ras:DOI thp:type jbs:Manufacturer.
+
+ras:Development_of_a_Hydrogen_Infrastructure thp:type txs:Road.
+
+ras:ECH2A thp:type jbs:Researcher.
+
+ras:Toyota_Motor_Corporation thp:type jbs:Researcher.
+
+ras:Mads_Friis_Jensen thp:type jbs:inProduction.
+
+ras:hydrogen_tank thp:type jbs:inProduction.
+
+ras:Reuters thp:type jbs:Supplier.
+
+ras:hydrogen_technology thp:type jbs:Researcher.
+
+ras:Hydrogen_fuel_cells thp:type jbs:inResearch.
+
+ras:Energy_Department thp:type jbs:Customer.
+
+ras:hydrogen_fuel thp:type jbs:Researcher.
+
+ras:the_Alfa_Laval_Test_and_Training_Centre thp:type txs:Train.
+
+ras:catalyst thp:type jbs:inProduction.
+
+ras:Perovskites_crystals thp:type jbs:inTesting.
+
+ras:Tuesday thp:type jbs:inResearch.
+
+ras:Hydrogen_Fuel_Cell thp:type jbs:Researcher.
+
+ras:Embracing_Hydrogen_and_Fuel_Cell_Technologies_Energy_Department thp:type jbs:inProduction.
+
+ras:University_of_Mannheim thp:type jbs:Researcher.
+
+ras:More_Deals__AMPERSAND__Coupons thp:type txs:Car.
+
+ras:DOI thp:type jbs:Supplier.
+
+ras:Korea_Institute_of_Science_and_Technology thp:type jbs:Researcher.
+
+ras:Antiseptic_Mouth_Wash thp:type jbs:Researcher.
+
+ras:Spanish_utility_Iberdrola thp:type jbs:Customer.
+
+ras:Energy_Department thp:type jbs:Manufacturer.
+
+ras:Hydrogen_plane thp:type jbs:Manufacturer.
+
+ras:Toyota_Motor_Corporation thp:type txs:Manufacturing.
+
+ras:electric_vans thp:type txs:RegionalTruck.
+
+ras:fuel_cell_electric_vehicles thp:type jbs:inResearch.
+
+ras:production thp:type txs:Product.
+
+ras:production thp:type jbs:inProduction.
+
+ras:LONDON thp:type jbs:Customer.
+
+ras:_QUOTATION_OR_APOSTROPHE_green_QUOTATION_OR_APOSTROPHE__hydrogen thp:type jbs:inProduction.
+
+ras:Franco_German thp:type jbs:Customer.
+
+ras:San_Francisco thp:type jbs:Customer.
+
+ras:Daimler_Truck_AG thp:type jbs:Customer.
+
+ras:technology thp:type jbs:Customer.
+
+ras:methanol_fuel_cell thp:type txs:MethanolFuelCell.
+
+ras:Daimler_Truck_Fuel_Cell_GmbH__AMPERSAND__Co_KG thp:type jbs:Supplier.
+
+ras:MnCNRu thp:type jbs:Manufacturer.
+
+ras:hydrogen_fuel__COMMA_ thp:type jbs:inTesting.
+
+ras:fuel_cell_vehicles thp:type txs:Product.
+
+ras:fuel_cell_vehicles thp:type jbs:inProduction.
+
+ras:vehicles thp:type txs:Road.
+
+ras:Tokyo_and_the_Fukushima_Prefecture thp:type jbs:Researcher.
+
+ras:Include_Hydrogen thp:type jbs:inProduction.
+
+ras:Toyota thp:type jbs:Customer.
+
+ras:LONDON thp:type jbs:Manufacturer.
+
+ras:fuel_cell_modules thp:type jbs:inProduction.
+
+ras:a_fuel_cell_electric thp:type txs:Product.
+
+ras:FuelCellsWorks thp:type jbs:Researcher.
+
+ras:hydrogen_fuel_cells thp:type jbs:Customer.
+
+ras:San_Francisco thp:type jbs:Manufacturer.
+
+ras:fuel_cells_are thp:type jbs:inResearch.
+
+ras:Daimler_Truck_Fuel_Cell thp:type jbs:Customer.
+
+ras:CrystEngComm thp:type jbs:Manufacturer.
+
+ras:technology thp:type jbs:Manufacturer.
+
+ras:Ref__XX thp:type jbs:inTesting.
+
+ujr: thp:type bhe:BibliographicResource.
+
+ras:H2 thp:type jbs:Supplier.
+
+ras:mouth_wash thp:type jbs:inProduction.
+
+ras:Hydrogen_Fuel_Cell thp:type txs:Product.
+
+ras:Hydrogen_and_Fuel_Cell_Technologies thp:type jbs:inTesting.
+
+ras:Fuel_Cell_Business thp:type txs:Product.
+
+ras:Talgo thp:type jbs:Researcher.
+
+ras:hydrogen_projects thp:type jbs:inTesting.
+
+ras:H2O2 thp:type jbs:inProduction.
+
+ras:hydrogen_cars thp:type txs:Car.
+
+ras:Toyota thp:type jbs:Manufacturer.
+
+ras:heavy_duty_vehicles thp:type txs:Road.
+
+ras:San_Francisco_Clean_Cities_Coalition thp:type jbs:Supplier.
+
+ras:Org thp:type jbs:Supplier.
+
+ras:GlobeNewswire_Advanced_TORONTO thp:type jbs:Customer.
+
+atj:C6TA01470D thp:type bhe:BibliographicResource.
+
+ras:Volvo thp:type jbs:Researcher.
+
+ras:Many_provinces_and_cities thp:type jbs:Customer.
+
+ras:San_Francisco thp:type jbs:Supplier.
+
+ras:natural_gas_distribution_system thp:type txs:Bus.
+
+ras:Daimler_Truck_AG thp:type jbs:Supplier.
+
+ras:Breakthrough_Energy_Ventures thp:type dbg:Project.
+
+ras:ammonia thp:type jbs:inResearch.
+
+ras:Volvo_AB thp:type jbs:Customer.
+
+ras:natural_gas thp:type jbs:Manufacturer.
+
+ras:technology thp:type jbs:Supplier.
+
+ras:Daimler_Truck_Fuel_Cell_GmbH__AMPERSAND__Co_KG thp:type txs:Truck.
+
+ras:fuel_cell_system thp:type jbs:Researcher.
+
+ras:hydrogen_production thp:type jbs:inTesting.
+
+ras:hydrogen_projects thp:type dbg:Project.
+
+ras:Video thp:type jbs:inResearch.
+
+ras:methanol_fuel_cell thp:type jbs:inResearch.
+
+ras:CEC thp:type jbs:Customer.
+
+ras:Volvo_Group thp:type jbs:Supplier.
+
+ras:Hydrogen_Fuel_Cell_Buses thp:type txs:Bus.
+
+ras:produce thp:type jbs:Customer.
+
+xns:canadian_pacific_to_pilot_hydrogen_powered_train_to_decarbonize_freight_transport_3195995 thp:type bhe:BibliographicResource.
+
+ras:Daimler_Truck_Fuel_Cell thp:type jbs:Supplier.
+
+ras:FuelCellsWorks thp:type jbs:inProduction.
+
+ras:Fuel_Cells thp:type jbs:inResearch.
+
+ras:Volvo_AB thp:type jbs:Manufacturer.
+
+fto:IHS_Says_Hydrogen_Cars_Are_at_Crossroad_htm thp:type bhe:BibliographicResource.
+
+ras:Southern_California thp:type jbs:Customer.
+
+ras:CEC thp:type jbs:Manufacturer.
+
+ras:Fukushima_Prefecture thp:type jbs:Researcher.
+
+ras:H2O_Molecules thp:type jbs:inProduction.
+
+ras:Japan thp:type jbs:inProduction.
+
+ras:Storengy thp:type jbs:Customer.
+
+ras:Toyota thp:type jbs:inResearch.
+
+ras:hydrogen_fuel__COMMA_ thp:type jbs:Researcher.
+
+ras:natural_gas thp:type jbs:Supplier.
+
+ras:produce thp:type jbs:Manufacturer.
+
+ras:hydrogen_fuel_and_wind_power thp:type jbs:inResearch.
+
+ras:zero_emission_technology thp:type jbs:inTesting.
+
+ras:minimizing_carbon_dioxide_emissions thp:type txs:Car.
+
+ras:ZeroAvia thp:type jbs:inProduction.
+
+ras:fuel_and thp:type jbs:inProduction.
+
+ras:GlobeNewswire_Advanced_TORONTO thp:type jbs:Supplier.
+
+ras:Renewable_hydrogen thp:type jbs:inTesting.
+
+gof: thp:type bhe:BibliographicResource.
+
+ras:Breakthrough_Energy_Ventures thp:type jbs:Researcher.
+
+ras:Storengy thp:type jbs:Manufacturer.
+
+ras:Daimler_Truck_AG thp:type txs:Truck.
+
+ras:solid_oxide_fuel_cells thp:type txs:SolidOxideFuelCell.
+
+ras:a_new_technology thp:type jbs:inResearch.
+
+ras:Mitsui_O_S_K__Lines thp:type jbs:Customer.
+
+ras:Alliance thp:type jbs:Customer.
+
+ras:Daimler_AG thp:type jbs:Supplier.
+
+ras:applications thp:type jbs:Researcher.
+
+ras:1st_Hydrogen_NEXO_Vehicle thp:type txs:Road.
+
+ras:hydrogen_fuel_cell thp:type jbs:inTesting.
+
+ras:Advance_Article thp:type txs:RegionalTruck.
+
+ras:renewable_energy thp:type jbs:inResearch.
+
+ras:Hydrogen_Peroxide thp:type jbs:inTesting.
+
+ras:application thp:type txs:Application.
+
+ras:fuel_cell thp:type txs:Reconversion.
+
+ras:fuel_cell_modules thp:type jbs:Customer.
+
+ras:hydrogen_production thp:type jbs:Researcher.
+
+ras:Blue_World_Technologies thp:type jbs:inTesting.
+
+nqr:_Friday thp:type jbs:Customer.
+
+ras:vehicles thp:type jbs:Supplier.
+
+ras:Oakley_Men thp:type jbs:Customer.
+
+ras:contribute_to_the_development_of_zero_carbon_hydrogen thp:type txs:Bus.
+
+ras:ECH2A thp:type jbs:Manufacturer.
+
+ras:freight_hauling_trucks thp:type txs:Truck.
+
+ras:ketoximes thp:type jbs:inTesting.
+
+ras:Antiseptic_Mouth_Wash thp:type jbs:Customer.
+
+ras:catalyst thp:type jbs:inResearch.
+
+nqr:_Friday thp:type jbs:Manufacturer.
+
+ras:Ref__XX thp:type jbs:inProduction.
+
+ras:HyET_Hydrogen thp:type jbs:Supplier.
+
+ras:hydrogen_and_fuel_cell_technologies thp:type txs:Reconversion.
+
+ras:Hydrogen_and_Fuel_Cell_Technologies thp:type txs:Product.
+
+xad:talgo_A_WITH_CIRCUMFLEX__EURO__TRADEMARK_s_hydrogen_train_will_be_ready_2023 thp:type bhe:BibliographicResource.
+
+ras:electric_vehicles thp:type txs:Road.
+
