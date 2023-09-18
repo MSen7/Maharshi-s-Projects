@@ -1,0 +1,2000 @@
+<http://fraunhofer.de/data/highly-compressed_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/the_Suiso_Frontier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Storengy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Embracing_Hydrogen_and_Fuel_Cell_Technologies_Energy_Department> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/solar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/LONDON> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/a_fuel_cell_electric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Volvo_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Climate_Action_Champions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/NJC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<https://www.onenewspage.com/n/Automotive/1zlv34pk9q/Initiative-seeks-to-reduce-green-hydrogen-cost.htm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Toyota_Motor_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Hydrogen_NEXO_Vehicle_POSCO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/UK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Amazon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_and> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/Ref._XX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Volvo_AB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Oakley_Men> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/CD_Projekt_Red> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/CrystEngComm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/hydrogen_fuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_%2C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/hydrogen_train> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Green_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/mouth_wash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://www.virtual-strategy.com/2016/05/25/dni-metals-inc-appoints-lithium-ion-battery-and-fuel-cell-experts-board-directors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Bloom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/HTWO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/GazelEnergie_Join_Forces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Renewable_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/zero-emission_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://phoenixsun.co.za/34773/tuesday-life-hack-5-uses-for-hydrogen-peroxide/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Fortescue_Metals_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Sunglasses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/a_product_that_gamers_can_enjoy_as_intended> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/hydrogen_fuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/ZeroAvia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Royal_Society_of_Chemistry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Toyota> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/green_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/hydrogen_trains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/ORR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Hydrogen_%26_Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Mn-Ru> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Energy_Department> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/green_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Hydrogen_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<https://www.dealighted.com/main/page/comment/Oakley_Men_s_Sunglasses_Valve_Polarized_111_Fuel_Cell_Polarized_90_amp_More_Free_Shipping_8788987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/SOFC4Maritime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/hydrogen_production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/ALICE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Lithium_Ion_Battery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/English> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Near_Future_Propulsion_Extras> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/CEC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Fuel_Cell_Polarized> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/Matthias_Jurytko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/hydrogen_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/road_transport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Mobile>.
+
+<http://fraunhofer.de/data/LONDON> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Activision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Daimler_Truck_AG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Stellantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/renewable_energy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/High_Pressure_Hydrogen_Tanks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/to_replace_heavy-duty_trucks_powered_by_diesel_fuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Truck>.
+
+<http://fraunhofer.de/data/Kawasaki_Heavy_Industries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/multi-use_passenger_vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/electric_vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Alfa_Laval> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<https://fuelcellsworks.com/news/kist-develops-nanocatalyst-that-has-2-5-times-the-efficiency-of-extracting-hydrogen-fuel-from-ammonia/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/LONDON> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Include_Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/a_nano-metal_catalyst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Hydrogen_and_Fuel_Cell_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Beiqi_Foton_Motor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Video> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/UK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/polymer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/hydrogen_transportation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/railway_lines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Train>.
+
+<http://fraunhofer.de/data/product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/hydrogen_production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#HydrogenProduct>.
+
+<http://fraunhofer.de/data/renewable_and_low-carbon_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/the_Suiso_Frontier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/MnCNRu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/renewable_energy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/natural_gas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/ZeroAvia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/STT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/cellcentric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/heavy-duty_vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<https://revolution-green.com/socalgas-test-technology-enable-rapid-expansion-hydrogen-fueling-stations/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Toyota_Motor_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/hydrogen_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#HydrogenProduct>.
+
+<http://fraunhofer.de/data/University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/San_Francisco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Fuel_Cell_Polarized> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/produce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/ZeroAvia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/water_when_it_burns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Ref._XX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/HyET_Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Zhao> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Hyundai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Hydrogen_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_%2C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/fuel_cell_electric_vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Korea_Institute_of_Science_and_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Development_of_a_Hydrogen_Infrastructure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/Mads_Friis_Jensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/liquefied_hydrogen_carrier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/hydrogen_production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/applications> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/solar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Toyota> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<https://www.hyundainews.com/en-us/releases/3217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Vanguard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Oakley_Men%27s_Sunglasses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Hydrogen_Peroxide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/hydrogen_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/hydrogen_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Orange_County_Transportation_Authority> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Plug_Power_Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/Hydrogen_Fuel_Cell_Buses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Bus>.
+
+<http://fraunhofer.de/data/Toyoda_Gosei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_%2C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/zero-carbon_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/solid_oxide_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<https://www.epicos.com/article/660648/toyoda-gosei-starts-operation-high-pressure-hydrogen-tanks-fcvs-inabe-plant-japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/hydrogen_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/hydrogen_and_fuel_cell_technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/GLOBE_NEWSWIRE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/a_fuel_cell_electric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/CD_Projekt_Red> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/CrystEngComm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Kawasaki_Heavy_Industries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Toyoda_Gosei_Co._%2C_Ltd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Channel_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Hydrogen_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/governments_and_businesses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/SOFC4Maritime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Marine>.
+
+<http://fraunhofer.de/data/Toyota_Motor_Europe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Manufacturing>.
+
+<http://fraunhofer.de/data/carbon-free_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/mining> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://www.4-traders.com/news/China-Petrochemical-Sinopec-rsquo-s-diesel-hydrogenation-technology-wins-bidding-of-Brunei-project--22414754/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Reuters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Volvo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Beijing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/aircraft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Activision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Perovskites_crystals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Dezember_2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Storengy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/produce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/renewable_energy_sources> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Geely_Hydrogen_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/products> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/News_Engineered_Products> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Thiebault_Paquet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Hyundai_Motor_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/ECH2A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Hydrogen_and_Fuel_Cell_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Inabe_Plant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Plug_Power_Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/applications> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Application>.
+
+<http://fraunhofer.de/data/Video> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/natural_gas_distribution_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Bus>.
+
+<http://fraunhofer.de/data/OCTA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/next-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/renewable_and_low-carbon_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/The_European_Union> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/MnCNRu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/renewable_energy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Nafion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Bloom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Maanshan_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/proton_exchange_membranes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/methanol_fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#MethanolFuelCell>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Stockholm_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Research>.
+
+<http://fraunhofer.de/data/Archive.org> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/carbon-free_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Antiseptic_Mouth_Wash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<https://www.mamamia.com.au/h20-just-add-water-cast-now/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/contribute_to_the_development_of_zero-carbon_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/Strategic_Analysis%2C_Inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Hyundai_Motor_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Manufacturing>.
+
+<http://fraunhofer.de/data/Mads_Friis_Jensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Daimler_Truck_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/H2O2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/solid_oxide_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Blue_World_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/zero-emission_electric_cars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Toyota_Motor_Europe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/hydrogen_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/LONDON> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Hydrogen_Cars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/The_Clean_Hydrogen_Alliance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Daimler_Truck_Fuel_Cell_GmbH_%26_Co.KG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/Heavy_Duty_Vehicles-Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Truck>.
+
+<http://fraunhofer.de/data/Wind_Hunter_Project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Geely_Hydrogen_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/solid_oxide_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Advance_Article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Blue_World_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/UK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/hydrogen-bond_donor_scaffolds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Talgo_Vittal-One> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/a_new_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Hydrogen_Peroxide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Daimler_Truck_AG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Truck>.
+
+<http://fraunhofer.de/data/Ammonia_Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/Phenanthrene_Skeletons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Toyoda_Gosei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Daimler_AG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/application> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Talgo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/hydrogen_production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://www.myjournals.org/index.php?nr=393867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/hydrogen_and_fuel_cell_technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/ZeroAvia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/hydrogen_projects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Project>.
+
+<http://fraunhofer.de/data/High_Pressure_Hydrogen_Tanks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Toyota> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/methanol_fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/electric_vans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#RegionalTruck>.
+
+<http://fraunhofer.de/data/the_production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/zero-emission_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Hydrogen_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/ORR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/a_six-seater_propeller_plane_powered_by_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Aircraft>.
+
+<http://fraunhofer.de/data/a_product_that_gamers_can_enjoy_as_intended> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/hydrogen_trains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/electric_vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/Tuesday> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Hyundai_Motor_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Orange_County_Transportation_Authority> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Mobile>.
+
+<http://fraunhofer.de/data/H2O_Molecules> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Santa_Cruz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/catalyst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Daimler_Truck_Fuel_Cell_GmbH_%26_Co.KG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Lithium_Ion_Battery_and_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/hydrogen_production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Ammonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Perovskites_crystals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Southern_California> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/fuel_cell_vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/hydrogen_transportation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Transport>.
+
+<http://fraunhofer.de/data/ECH2A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/hydrogen_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Ammonia_Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Daimler_Truck_AG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Spyro_Reignited> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/mobility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Lhyfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/next-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Kawasaki_Heavy_Industries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<https://www.connecticum.de/jobboerse/product-owner-d-engineering-it-daimler-truck-fuel-cell-gmbh-co-kg-stellenangebot-1346832.html> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/HTWO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Fuel_Cell_Business> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/methanol_fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/fuel_cells_are> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Brooklyn_College_of_the_City_University_of_New_York> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Research>.
+
+<http://fraunhofer.de/data/Wind_Hunter_Project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Beiqi_Foton_Motor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/electric_vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/solid_oxide_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#SolidOxideFuelCell>.
+
+<http://fraunhofer.de/data/Fuel_Cell_System> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/Dedicated_Fuel_Cell_System> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Mads_Friis_Jensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Lithium_Ion_Battery_and_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/News_Engineered_Products> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/The_Korea_Institute_of_Science_and_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/regorg#RegisteredOrganization>.
+
+<http://fraunhofer.de/data/DOI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Energy_Department> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/green_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Hydrogen_Infrastructure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Daimler_AG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Talgo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/natural_gas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/zero-emission_train> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Train>.
+
+<http://fraunhofer.de/data/Green_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Conversion>.
+
+<http://fraunhofer.de/data/fossil_fuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/fuel-cell_joint_venture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Project>.
+
+<http://fraunhofer.de/data/Fuel_Cell_Polarized> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/hydrogen_cars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/Fuel_cell_power_pack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Fuel_Cell_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/Cellcentric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/clean_energy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Toyota> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/high_pressure_hydrogen_tanks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/hydrogen_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Fuel_Cell_System> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/ORR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Doritos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Tuesday> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/solid_oxide_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/new_hydrogen_vehicle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/James_Frimen_/_Friday> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/research/_media_organizations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Renewable_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_and_wind_power> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Breakthrough_Energy_Ventures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Project>.
+
+<http://fraunhofer.de/data/fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/STT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/SoCalGas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/GLOBE_NEWSWIRE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Methanol_fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#EthanolFuelCell>.
+
+<http://fraunhofer.de/data/a_fuel_cell_electric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/solar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Volvo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/a_product_that_gamers_can_enjoy_as_intended> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/1st_Hydrogen_NEXO_Vehicle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/Featured_Company_Featured_Company_DNI_Metals_Inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/HTWO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/H2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Hyundai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Reuters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Stockholm_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Fuel_Cell_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/hydrogen_and_fuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_and> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<https://fuelcellsworks.com/subscribers/swk-opts-for-green-hydrogen-production-in-cooperation-with-the-swk-e²-institute-of-the-niederrhein-university-of-applied-sciences/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/FuelCellsWorks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Methanol_fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#MethanolFuelCell>.
+
+<http://fraunhofer.de/data/hydrogen_fuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/fuel_cells_are> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/hydrogen_cars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/DOI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Hyundai_Motor_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/zero_emissions_transportation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Mobile>.
+
+<http://fraunhofer.de/data/H2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/the_Alfa_Laval_Test_and_Training_Centre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Train>.
+
+<http://fraunhofer.de/data/ACWA_Power> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/methanol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Beiqi_Foton_Motor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Sunglasses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/proton-conducting_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/Fukushima_Prefecture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Dedicated_Fuel_Cell_System> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Inabe_Plant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/green_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/proton_exchange_membranes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Membrane>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Nafion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Maanshan_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/hydrogen_and_fuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/mobility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/STOL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Aircraft>.
+
+<http://fraunhofer.de/data/AUVSI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/fuel_and> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/natural_gas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/San_Francisco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/the_%E2%80%9C_European_Clean_Hydrogen_Alliance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/aircraft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Aircraft>.
+
+<http://fraunhofer.de/data/fuel_cell_electric_vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/Daimler_Truck_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/HyET_Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Toyoda_Gosei_Co._%2C_Ltd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/zero-emission_hydrogen_fuel_cell_bus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Bus>.
+
+<http://fraunhofer.de/data/mining> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Hydrogen_fuel_cars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/vehicles_and_portable_devices> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/H2O2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/aircraft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/freight-hauling_trucks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Truck>.
+
+<http://fraunhofer.de/data/Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/James_Frimen_/_Friday> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Methanol_fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/LONDON> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Talgo_Vittal-One> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Storengy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Research>.
+
+<http://fraunhofer.de/data/Advance_Article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/proton-conducting_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Hyundai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Ammonia_Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#AmmoniaFuelCell>.
+
+<http://fraunhofer.de/data/Heavy_Duty_Vehicles-Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/Daimler_AG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Talgo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/FuelCellsWorks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Volvo_AB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/multi-use_passenger_vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/Embracing_Hydrogen_and_Fuel_Cell_Technologies_Energy_Department> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/Deep-Sea_Shipping> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Marine>.
+
+<http://fraunhofer.de/data/cellcentric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/planned> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/GlobeNewswire_Advanced_TORONTO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Lhyfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Green_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/clean_technology_revolution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/Spanish_utility_Iberdrola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Bloom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Avions_Mauboussin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/zero-carbon_hydrogen_solutions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/FuelCellsWorks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/ZeroAvia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Switch_to_Hydrogen_Buses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Bus>.
+
+<http://fraunhofer.de/data/fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/cyano-bridged_coordination_polymers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Fortescue_Metals_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Volvo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/ACWA_Power> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<https://pubs.rsc.org/en/content/articlelanding/2020/ce/d0ce01311k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/MAHLE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Toyota_Motor_Europe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/fuel_cell_vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_and> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<https://www.forbes.com/sites/mitchwallace/2020/12/18/i-got-one-of-only-77-limited-cyberpunk-2077-doritos-fuel-cells-and-its-insanely-cool/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Methanol_fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/hydrogen_fuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Hydrogen_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/fuel_cell_modules> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://southafrica.cleantechopen.org/2016/05/20/sharks-electric-field-sixth-sense-could-inspire-better-fuel-cells/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Hydrogen_Infrastructure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/hydrogen_production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Blue_World_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/decarbonising_road_transport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/discovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/green_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Daimler_Truck_Fuel_Cell_GmbH_%26_Co.KG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/CEC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Embracing_Hydrogen_and_Fuel_Cell_Technologies_Energy_Department> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/HTWO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/hydrogen_and_fuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Renewable_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/hydrogen_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/carandbike.com> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Bike>.
+
+<http://fraunhofer.de/data/McPhy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/oxygen_reduction_reaction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Stellantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/TME> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<https://www.okotokstoday.ca/national-business/canadian-pacific-to-pilot-hydrogen-powered-train-to-decarbonize-freight-transport-3195995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Fuel_Cell_Business> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/methanol_fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Org> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/fuel_cell_vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/TME> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/DOI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Energy_Department> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Green_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/green_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/H2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/batteries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Battery>.
+
+<http://fraunhofer.de/data/Amazon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/ammonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Volvo_AB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Oakley_Men> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Talgo_Vittal-One> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Lithium_Ion_Battery_and_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Mitsui_O.S.K._Lines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Many_provinces_and_cities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/gas_storage_and_the_development_of_renewable_gases> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/natural_gas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Hydrogen_and_Fuel_Cell_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/Dezember_2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Advance_Article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/methanol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/produce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Hydrogen_plane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Alliance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Green_Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/products> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/IEEE_Spectrum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/ammonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Zhao> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Industry_News> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Latest_Poll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/hydrogen_transportation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Mobile>.
+
+<http://fraunhofer.de/data/POSTECH_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Research>.
+
+<http://fraunhofer.de/data/Franco-German> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://pubs.rsc.org/en/Content/ArticleLanding/2016/TA/C6TA01470D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Strategic_Analysis%2C_Inc.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/James_Frimen_/_Friday> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Toyota_Motor_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Manufacturing>.
+
+<http://fraunhofer.de/data/Hydrogen_Fuel_Cell_Buses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Vanguard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/SOFC4Maritime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/carbon-free_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Fuel_Cell_System> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/fuel_cell_modules> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/solid_oxide_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Blue_World_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/European> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/CEC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Breakthrough_Energy_Ventures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Hydrogen_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/gas_storage_and_the_development_of_renewable_gases> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Daimler_Truck_Fuel_Cell_GmbH_%26_Co.KG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Truck>.
+
+<http://fraunhofer.de/data/prototype> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Cariba_Heine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Stellantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<https://www.myjournals.org/index.php?nr=610526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/CrystEngComm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Hyundai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/fuel_cell_business> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Bus>.
+
+<http://fraunhofer.de/data/Korea_Institute_of_Science_and_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/FuelCellsWorks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Channel_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/HTWO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/hydrogen_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<https://www.hydrogenfuelnews.com/hydrogen-fueling-infrastructure/8541312/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/hydrogen_and_fuel_cell_technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/applications> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<https://fuelcellsworks.com/news/mcphy-is-proud-to-be-a-member-of-the-european-clean-hydrogen-alliance/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Beijing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/European_Clean_Hydrogen_Alliance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/ACWA_Power> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Fuel_Cell_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Advance_Article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#RegionalTruck>.
+
+<http://fraunhofer.de/data/Hydrogen_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Hyundai_Motor_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Many_provinces_and_cities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/NJC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/zero-emission_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Energy_Department> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Toyota_Motor_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/green_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Fuel_Cell_Vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/a_product_that_gamers_can_enjoy_as_intended> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/vans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#RegionalTruck>.
+
+<http://fraunhofer.de/data/The_European_Union> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://www.onenewspage.com/n/Automotive/759n5mi4u/IHS-Says-Hydrogen-Cars-Are-at-Crossroad.htm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/H2O_Molecules> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/OCTA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Nick_Carey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/catalyst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/fuel_cell_vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/Toyoda_Gosei_Co._%2C_Ltd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Daimler_Truck_Fuel_Cell_GmbH_%26_Co.KG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Ammonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://ciltuk.org.uk/News/LatestNews/TabId/235/ArtMID/6887/ArticleID/8897/Government-to-roll-out-promotion-of-hydrogen-efficient-fleets.aspx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/UAM%2C_automobiles%2C_vessels_and_trains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Train>.
+
+<http://fraunhofer.de/data/produce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Antiseptic_Mouth_Wash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/products> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Compression> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<https://pubs.rsc.org/en/content/articlelanding/2021/qo/d0qo01341b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Green_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/hydrogen_and_fuel_cell_technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/hydrogen_train> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Vanguard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Hydrogen_Evolution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Storengy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/ammonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/mobility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Hydrogen_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Hydrogen_%26_Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/LONDON> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/hydrogen_train> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Post_Ammonia_Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/Volvo_AB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/UK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/a_controlling_agent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/reproduction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Green_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/English> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Spanish_utility_Iberdrola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Bloom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/solid_oxide_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/STT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Blue_World_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Green_Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Conversion>.
+
+<http://fraunhofer.de/data/Matthias_Jurytko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Hydrogen_Fuel_Cell_Buses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/prototype> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Beijing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/air_conditioning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/European_Clean_Hydrogen_Alliance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/truck> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Truck>.
+
+<http://fraunhofer.de/data/Activision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Beijing_Daily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/ZeroAvia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<https://autotechinsight.ihsmarkit.com/news/5260191/mahle-opens-new-test-center-in-germany-for-fuel-cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Lithium_Ion_Battery_and_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Battery>.
+
+<http://fraunhofer.de/data/small_aircraft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Aircraft>.
+
+<http://fraunhofer.de/data/The_Korea_Institute_of_Science_and_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Industry_News> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Toyota_Motor_Europe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Alfa_Laval> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/%27green%27_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/The_Clean_Hydrogen_Alliance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/transportation_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Mobile>.
+
+<http://fraunhofer.de/data/fossil_fuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/renewable_energy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Blue_World_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Fuel_Cell_Polarized> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Hydrogen_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/discovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Intangible>.
+
+<http://fraunhofer.de/data/Post_Ammonia_Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/The_European_Union> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/hydrogen_production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Hydrogen_NEXO_Vehicle_POSCO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Project>.
+
+<http://fraunhofer.de/data/high_pressure_hydrogen_tanks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/CEC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Fukushima> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://www.jeccomposites.com/knowledge/international-composites-news/talgo%E2%80%99s-hydrogen-train-will-be-ready-2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/zero-emission_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Antiseptic_Mouth_Wash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/IEEE_Spectrum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/hydrogen_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Stellantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/the_Suiso_Frontier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/High_Pressure_Hydrogen_Tanks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Daimler_Truck_AG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/GlobeNewswire_Advanced_TORONTO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Lhyfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/San_Francisco_Clean_Cities_Coalition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Powertrain_Daimler_Trucks_division> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Truck>.
+
+<http://fraunhofer.de/data/Renewable_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/a_new_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/catalyst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/new_hydrogen_vehicle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Kawasaki_Heavy_Industries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Ammonia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Flake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Project>.
+
+<http://fraunhofer.de/data/European_Union> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Ref._XX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/mouth_wash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_%2C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/batteries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/fuel_cells_are> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/GazelEnergie_Join_Forces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/H2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Wind_Hunter_Project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/UAM%2C_automobiles%2C_vessels_and_trains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/Toyoda_Gosei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Hydrogen_Infrastructure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_%2C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Dedicated_Fuel_Cell_System> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/hydrogen_trains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/produce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/methanol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/More_Deals_%26_Coupons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Motomachi_Plant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Mn-Ru> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Channel_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/renewable_and_low-carbon_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/fuel_and> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/venture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Project>.
+
+<http://fraunhofer.de/data/H20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/air_conditioning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Vanguard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/testing_and_vaccination_strategy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/the_%E2%80%9C_European_Clean_Hydrogen_Alliance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Toyota_Motor_Europe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/hydrogen_fueling_stations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://hydrogentoday.info/news/1551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/TME> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/hydrogen_in> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/fuel_cells_are> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/hydrogen_train> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/hydrogen_vehicle_fleet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/fossil_fuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/ECH2A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/hydrogen_projects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Amazon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Cariba_Heine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/solid_oxide_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Blue_World_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/DNI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Fuel_Cell_Polarized> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<https://archive.org/details/NearFuturePropulsionExtras-0.5.3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Oakley_Men> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<https://smallnews.in/renewables/2020/12/01/mol-joins-wind-hunter-project-for-combination-of-sails-and-fuel-cells-on-ships/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Mitsui_O.S.K._Lines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/OCTA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Dedicated_Fuel_Cell_System> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/SoCalGas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/University_of_Mannheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Research>.
+
+<http://fraunhofer.de/data/high_pressure_hydrogen_tanks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Hydrogen_and_Fuel_Cell_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Position_yourself_for_advantage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#RegionalTruck>.
+
+<http://fraunhofer.de/data/Alliance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Green_Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Video> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Beijing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/%27green%27_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/European_Clean_Hydrogen_Alliance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/ZEV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<http://fraunhofer.de/data/hydrogen_transportation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Beijing_Daily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Powertrain_Daimler_Trucks_division> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Train>.
+
+<http://fraunhofer.de/data/FuelCellsWorks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Reuters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/hydrogen_projects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/ketoximes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Industry_News> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Renewable_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Wind_Hunter_Project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Project>.
+
+<http://fraunhofer.de/data/a_fuel_cell_electric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://www.avweb.com/podcast/Podcast-Dr-Josef-Kallo-On-Fuel-Cell-Progress-226201-1.html> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Hydrogen_Evolution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Road>.
+
+<https://www.carandbike.com/news/chinas-capital-envisages-10-000-fuel-cell-vehicles-by-2025-2411012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Hyundai_Motor_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/hydrogen_train> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Train>.
+
+<http://fraunhofer.de/data/European_Union> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/local_transportation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Mobile>.
+
+<http://fraunhofer.de/data/SOFC4Maritime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/hydrogen_tank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Inabe_Plant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/The_European_Union> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/fuel_cell_electric_vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/ketoximes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/transportation_is> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Mobile>.
+
+<http://energy.gov/eere/articles/energy-department-announces-climate-action-champion-city-san-francisco-embracing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/AUVSI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Breakthrough_Energy_Ventures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/H2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Nafion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/The_Korea_Institute_of_Science_and_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Toyota> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Antiseptic_Mouth_Wash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Hydrogen_Peroxide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Featured_Company_Featured_Company_DNI_Metals_Inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/regorg#RegisteredOrganization>.
+
+<http://fraunhofer.de/data/Toyota> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Orange_County_Transportation_Authority> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/methanol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/mouth_wash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/hydrogen_tank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/the_plan_that_the_commission_recently_approved> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/ORR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<https://fuelcellsworks.com/subscribers/first-injection-of-green-hydrogen-into-the-existing-northern-german-gas-pipeline-network/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/hydrogen_and_fuel_cell_technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/a_fuel_cell_electric> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/fuel_and> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Post_Ammonia_Fuel_Cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#AmmoniaFuelCell>.
+
+<http://fraunhofer.de/data/Green_Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/prototype> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Tangible>.
+
+<http://article.wn.com/view/2016/05/25/Hydrogen_Fuel_Cell_Bus_Hits_OC_Streets_OCTA_Orange_County_Tr/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Hydrogen_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/TME> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/hydrogen_production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/rearview_mirror_car> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/hydrogen_trains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Fuel_Cell_Business> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/SoCalGas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/methanol_fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Volvo_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Toyota_Motor_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Hydrogen_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Daimler_AG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Talgo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Green_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Daimler_Truck_AG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Reuters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Green_Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/the_production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Lithium_Ion_Battery_and_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<https://www.marketscreener.com/quote/stock/DAIMLER-AG-436541/news/Daimler-Volvo-plan-hydrogen-fuel-cell-production-in-Europe-in-2025-33105649/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/contribute_to_the_development_of_zero-carbon_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Bus>.
+
+<http://www.hydrogenfuelnews.com/renewable-hydrogen-fuel-production-begin-fukushima-japan/8528841/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Fortescue_Metals_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Beiqi_Foton_Motor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/next-generation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/application> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Application>.
+
+<http://fraunhofer.de/data/hydrogen_projects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Inabe_Plant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/AUVSI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/green_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Conversion>.
+
+<http://fraunhofer.de/data/contribute_to_the_development_of_zero-carbon_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/methanol_fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#EthanolFuelCell>.
+
+<https://vpoglobal.com/2021/04/19/methanol-fuel-cell-system-is-prepared-for-test-installation-phase/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Hydrogen_and_Fuel_Cell_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/H2O2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/San_Francisco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/produce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/GlobeNewswire_Advanced_TORONTO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Lhyfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/green> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/HyET_Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Hydrogen_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/ketoximes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Korea_Institute_of_Science_and_Technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/regorg#RegisteredOrganization>.
+
+<http://fraunhofer.de/data/hydrogen_projects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Fuel_Cell_System> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Mads_Friis_Jensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Renewable_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/hydrogen-powered_planes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Aircraft>.
+
+<https://fuelcellsworks.com/subscribers/wuxi-city-is-fully-committed-to-hydrogen-and-fuel-cells/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/European> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/hydrogen-bond_donor_scaffolds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/a_new_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Activision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/hydrogen_trains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Train>.
+
+<http://fraunhofer.de/data/carandbike.com> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/truck> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/hydrogen_tank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Volvo_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Hydrogen_Infrastructure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/DOI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/nano-metal_catalyst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Hydrogen_plane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Aircraft>.
+
+<https://ship.energy/2020/12/04/klaipedos-nafta-joins-lithuanian-hydrogen-platform/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Masamichi_Okada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/TME> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Fuel_Cell_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Orange_County_Transportation_Authority> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Tuesday> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/hydrogen_carrier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Hydrogen_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Fortescue_Metals_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Volvo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/hydrogen_production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<https://timworld.info/two-distinct-different-liquid-states-of-water-exist-both-made-of-h2o-molecules/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/University_of_Mannheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/Fuel_Cell_Business> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/Zhao> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Green_Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/SOFC4Maritime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#SolidOxideFuelCell>.
+
+<http://fraunhofer.de/data/Lithium_Ion_Battery_and_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/TME> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/hydrogen_technology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Hydrogen_Peroxide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Town_council> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Amazon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Spyro_Reignited> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<https://fuelcellsworks.com/news/friday-fallback-story-storengy-and-gazelenergie-join-forces-coal-fired-power-stations-to-be-converted-to-hydrogen/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/James_Frimen_/_Friday> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Oakley_Men> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Oakley_Men%27s_Sunglasses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Fuel_cell_power_pack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/Japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/German> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Mitsui_O.S.K._Lines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/hydrogen_train> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/fuel_cells_are> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/SoCalGas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/CAF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/minimizing_carbon_dioxide_emissions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Car>.
+
+<http://fraunhofer.de/data/Toyoda_Gosei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/catalyst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/fuel_cell_vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Green_Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/fossil_fuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#FossilFuel>.
+
+<http://fraunhofer.de/data/Dedicated_Fuel_Cell_System> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/decarbonising_road_transport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Mobile>.
+
+<http://fraunhofer.de/data/fuel_cell_modules> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/CD_Projekt_Red> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Reuters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Climate_Pledge_Fund> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/GlobeNewswire_Advanced_TORONTO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/Daimler_Truck_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/solid_oxide_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Reconversion>.
+
+<http://fraunhofer.de/data/Hyundai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/the_production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/Channel_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/vehicles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/hydrogen_projects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/European_Clean_Hydrogen_Alliance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/FuelCellsWorks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Fuel_Cell_System> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/proton-conducting_polymers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/zero-emission_commercial_aircraft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Aircraft>.
+
+<http://fraunhofer.de/data/Southeast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/natural_gas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inResearch>.
+
+<http://fraunhofer.de/data/products> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/ACWA_Power> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/SOFC4Maritime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/ALICE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Inabe_Plant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/H2O2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/Talgo_Vittal-One> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/benchmark_solutions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inTesting>.
+
+<http://fraunhofer.de/data/today> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/hydrogen_fuel_cell_system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<https://wtaq.com/2020/12/15/hydrogen-plane-startup-zeroavia-gets-backing-from-amazon-shell/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Climate_Pledge_Fund> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/AUVSI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Fuel_cell_power_pack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/journal_articles%2C_books_or_book_chapters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/%27green%27_hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/renewable_energy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Petrochemical_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/San_Francisco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/a_%C2%A32_million_government_fund> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<http://fraunhofer.de/data/Hydrogen_Fuel_Cell_Buses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/OCTA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Customer>.
+
+<http://fraunhofer.de/data/HyET_Hydrogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Supplier>.
+
+<http://fraunhofer.de/data/Zhao> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<http://fraunhofer.de/data/fuel_cell_modules> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Toyoda_Gosei_Co._%2C_Ltd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/Daimler_Truck_Fuel_Cell_GmbH_%26_Co.KG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/solid_oxide_fuel_cells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/Lithium_Ion_Battery_and_Fuel_Cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#LithiumBattery>.
+
+<http://fraunhofer.de/data/Blue_World_Technologies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<https://fuelcellsworks.com/news/dr-matthias-jurytko-takes-over-the-management-of-the-fuel-cell-joint-venture-cellcentric/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/fuel_cell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.semanticweb.org/neunsinger/ontologies/2022/2.0/HydrogenOntology#Product>.
+
+<http://fraunhofer.de/data/solar_energy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
+<https://www.thestandard.co.zw/2020/12/20/why-green-hydrogen-is-finally-getting-its-day-in-the-sun/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/aircraft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Manufacturer>.
+
+<http://fraunhofer.de/data/product> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/inProduction>.
+
+<https://media.toyota.co.uk/2021/04/toyota-to-supply-fuel-cell-modules-for-zero-emission-train-project/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource>.
+
+<http://fraunhofer.de/data/Tokyo_and_the_Fukushima_Prefecture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fraunhofer.de/MarketActivities/Researcher>.
+
