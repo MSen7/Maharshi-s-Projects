@@ -6,6 +6,6 @@ We also define a large number of individual objects in this context( for example
 
 Hydrogen_Refined_Graph.ttl is a knowledge graph about the Hydrogen industry.
 
-'An Iterative Approach to finding pearson coefficient' is a method I developed, using Cypher queries, to find pearson coefficients between all pairs of parameters having numerical value in a graph, without knowledge of either the parameter name or the paths between the paramters.
+'An Iterative Approach to finding pearson coefficient' is a method I developed, using Cypher queries, to find pearson coefficients between all pairs of parameters having numerical value in a graph, without knowledge of either the parameter name or the paths between the parameters.
 
 'An Introduction to SHACL' is a documentation on SHACL and its usage.
